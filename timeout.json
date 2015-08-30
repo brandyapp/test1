@@ -1,0 +1,1027 @@
+{"data" : [ 
+ {
+  "id":"Candelaria",
+  "name":"La Candelaria",
+  "lat":"48.8630027826",
+  "lng":"2.36420058427",
+  "address":"52 rue de Saintonge 75003 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Ballroom du Beefclub",
+  "name":"Le Ballroom",
+  "lat":"48.8641017623",
+  "lng":"2.34338669549",
+  "address":"58, rue Jean Jacques Rousseau 75001 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Max Y Jeremy",
+  "name":"Max y Jeremy",
+  "lat":"48.8652703299",
+  "lng":"2.36325087082",
+  "address":"6 Rue Dupuis 75003 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Hotel Amour",
+  "name":"Hôtel Amour",
+  "lat":"48.8796005",
+  "lng":"2.33939",
+  "address":"8 Rue de Navarin 75009 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Bistrot des Dames",
+  "name":"Le Bistrot des Dames",
+  "lat":"48.8850403",
+  "lng":"2.3250501",
+  "address":"18 Rue des Dames 75017 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Moonshiner",
+  "name":"Moonshiner",
+  "lat":"48.8556769474",
+  "lng":"2.37121355745",
+  "address":"5 rue Sedaine 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Experimental Cocktail Club Paris",
+  "name":"Experimental Cocktail Club",
+  "lat":"48.8660980709",
+  "lng":"2.34829374181",
+  "address":"37, rue Saint Sauveur 75002 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"La Voie Lactee",
+  "name":"L’Acte 3",
+  "lat":"48.847271",
+  "lng":"2.35238",
+  "address":"34, Rue du Cardinal Lemoine 75005 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Mary Celeste",
+  "name":"Mary Celeste",
+  "lat":"48.8616486",
+  "lng":"2.3648901",
+  "address":"1, Rue Commines 75003 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"La Belle-Iloise",
+  "name":"La Conserverie",
+  "lat":"48.8532104",
+  "lng":"2.33865",
+  "address":"9, rue de l'Ancienne Comédie 75006 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"L'entrée des artistes Pigalle",
+  "name":"Entrée des artistes",
+  "lat":"48.881031",
+  "lng":"2.3373799",
+  "address":"30 rue Victor Massé 75009 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"L'Artisan du Burger",
+  "name":"Artisan",
+  "lat":"48.8624916",
+  "lng":"2.3482101",
+  "address":"94 rue Rambuteau 75001 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Coq",
+  "name":"Le Coq",
+  "lat":"48.8634732729",
+  "lng":"2.28768922127",
+  "address":"Place du Trocadero 2 75016 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Experimental Cocktail Club Paris",
+  "name":"Expérimental Cocktail Club",
+  "lat":"48.8660980709",
+  "lng":"2.34829374181",
+  "address":"37, rue Saint Sauveur 75002 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Sherry Butt",
+  "name":"Sherry Butt",
+  "lat":"48.8532791",
+  "lng":"2.36409",
+  "address":"20 rue Beautreillis 75004 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"OnzeBar",
+  "name":"Bar O",
+  "lat":"48.8526688",
+  "lng":"2.3454001",
+  "address":"11 rue Xavier Privas 75005 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Glass",
+  "name":"Glass",
+  "lat":"48.8815578929",
+  "lng":"2.33744356639",
+  "address":"7, Rue Frochot 75009 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Silencio",
+  "name":"Silencio",
+  "lat":"48.8688163775",
+  "lng":"2.34315397054",
+  "address":"  Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Red House",
+  "name":"Red House",
+  "lat":"48.8506088",
+  "lng":"2.3801",
+  "address":"1 bis rue de la forge royale 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Ritz Carlton Paris Hemingway Bar",
+  "name":"Hemingway",
+  "lat":"48.8668384426",
+  "lng":"2.3578910774",
+  "address":"  Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"L'international",
+  "name":"L'International",
+  "lat":"48.8666801",
+  "lng":"2.3797801",
+  "address":"5/7 rue moret  75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Tavern's Café",
+  "name":"Saint George’s Tavern",
+  "lat":"48.872034817",
+  "lng":"2.34083347467",
+  "address":"Rue Du Faubourg Montmartre 75009 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"THE QUIET MAN",
+  "name":"The Quiet Man",
+  "lat":"48.8615417",
+  "lng":"2.3575499",
+  "address":"5, rue des Haudriettes 75003 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"La Féline Bar",
+  "name":"La Féline",
+  "lat":"48.8671417",
+  "lng":"2.3852601",
+  "address":"6 rue victor letalle 75020 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Guinness Tavern Paris",
+  "name":"Guiness Rock Tavern",
+  "lat":"48.85977814",
+  "lng":"2.34847167159",
+  "address":"31 rue des Lombards 75001 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Bus Palladium",
+  "name":"Le Bus Paladium",
+  "lat":"48.8807793",
+  "lng":"2.3349199",
+  "address":"6 rue Fontaine 75009 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Motel",
+  "name":"Le Motel",
+  "lat":"48.8527184",
+  "lng":"2.3765199",
+  "address":"8, passage Josset 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"La Flèche d'or",
+  "name":"Flèche d’Or",
+  "lat":"48.859392",
+  "lng":"2.403014",
+  "address":"102 bis rue de bagnolet 75020 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"L'Orange Mécanique",
+  "name":"L’Orange Mechanique",
+  "lat":"48.8672488319",
+  "lng":"2.375609219",
+  "address":"72 bis rue Jean Pierre Timbaud 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"La Manufacture",
+  "name":"La Manufacture",
+  "lat":"48.8283386",
+  "lng":"2.28211",
+  "address":"20 Esplanade de la Manufacture 92130 Issy-les-Moulineaux",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Fanfaron",
+  "name":"Le Fanfaron",
+  "lat":"48.8516388",
+  "lng":"2.3783",
+  "address":"6, Rue de la Main d'Or 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Curieux",
+  "name":"Les Furieux",
+  "lat":"48.8592911",
+  "lng":"2.3549299",
+  "address":"12 rue du Plâtre 75004 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Pop In",
+  "name":"Pop In",
+  "lat":"48.8614197",
+  "lng":"2.3675599",
+  "address":"105, rue Amelot 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"TAPE",
+  "name":"Tape",
+  "lat":"48.8729048955",
+  "lng":"2.35400319043",
+  "address":"55 rue du Faubourg Saint Denis 75010 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Houla Oups",
+  "name":"Houla Oups",
+  "lat":"48.8538399",
+  "lng":"2.38028",
+  "address":"4 Rue Basfroi 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"La Miroiterie",
+  "name":"La Miroiterie",
+  "lat":"48.8690414",
+  "lng":"2.39148",
+  "address":"88 rue de Ménilmontant 75020 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Rue Saint-Sauveur",
+  "name":"Le Saint-Sauveur",
+  "lat":"48.866",
+  "lng":"2.3489",
+  "address":"11 rue des panoyaux 75002 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"LES DiSQUAiRES",
+  "name":"les disquaires",
+  "lat":"48.8538083448",
+  "lng":"2.37550777894",
+  "address":"4-6 rue des taillandiers 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Onze bar",
+  "name":"Le Onze Bar",
+  "lat":"48.8680611",
+  "lng":"2.37813",
+  "address":"83 Rue Jean-Pierre Timbaud 75011  Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Piano Vache",
+  "name":"Le Piano Vache",
+  "lat":"48.84729",
+  "lng":"2.3477199",
+  "address":"8 rue Laplace 75005 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Caveau des Oubliettes",
+  "name":"Le Caveau des Oubliettes",
+  "lat":"48.8519897",
+  "lng":"2.34672",
+  "address":"52, rue Galande 75005 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Rock'n Roll Circus",
+  "name":"Rock’n Roll Circus",
+  "lat":"48.8646317",
+  "lng":"2.29706",
+  "address":"13 avenue du président wilson 75116 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"La Mécanique Ondulatoire",
+  "name":"La Mécanique Ondulatoire",
+  "lat":"48.8536987",
+  "lng":"2.37465",
+  "address":"8 passage Thiéré 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Black Dog",
+  "name":"Black Dog",
+  "lat":"48.8594284",
+  "lng":"2.34918",
+  "address":"26, rue des Lombards 75004 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Rendez Vous Des Amis",
+  "name":"Au Rendez-vous des Amis",
+  "lat":"48.8857384",
+  "lng":"2.3405099",
+  "address":"23 rue Gabrielle 75018  Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"L'UFO",
+  "name":"UFO",
+  "lat":"48.8668213",
+  "lng":"2.3738401",
+  "address":"49 rue Jean-Pierre Timbaud 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Cavern Club Paris",
+  "name":"Le Cavern",
+  "lat":"48.8551788",
+  "lng":"2.3398299",
+  "address":"21 rue Dauphine 75006 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Shannon Pub Paris",
+  "name":"The Shannon Pub",
+  "lat":"48.8425903",
+  "lng":"2.32985",
+  "address":"23, rue Bréa 75006 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"La Grosse Caisse",
+  "name":"La Grosse Caisse",
+  "lat":"48.8701782",
+  "lng":"2.34284",
+  "address":"160 rue Montmartre 75002 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Hard Rock Cafe Paris",
+  "name":"Hard Rock Café",
+  "lat":"48.8718946487",
+  "lng":"2.3415769698",
+  "address":"14 boulevard Montmartre 75009 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Reservoir",
+  "name":"Le réservoir",
+  "lat":"48.851429",
+  "lng":"2.3805499",
+  "address":"16 rue de la Forge Royale 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"LA BOULE NOIRE",
+  "name":"La Boule Noire",
+  "lat":"48.8823013",
+  "lng":"2.3401501",
+  "address":"120 boulevard Rochechouart 75018 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Espace B",
+  "name":"Espaces B",
+  "lat":"48.8932114",
+  "lng":"2.3844299",
+  "address":"16 rue Barbanègre 75019 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Dr Feelgood Rock Bar",
+  "name":"Dr. Feelgood",
+  "lat":"48.8553009",
+  "lng":"2.37556",
+  "address":"34 rue Keller 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le 3 Pièces Cuisine",
+  "name":"3 Pièces Cuisine",
+  "lat":"48.8829308",
+  "lng":"2.3180499",
+  "address":"101 Rue des Dames 75017 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"L'alibi",
+  "name":"Alibi",
+  "lat":"48.8920593",
+  "lng":"2.3428299",
+  "address":"11 rue Lapeyrere 75018 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Stolly's Bar",
+  "name":"Stolly's",
+  "lat":"48.8564820884",
+  "lng":"2.35719030966",
+  "address":"16 Rue Cloche Perce 75004 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Imprevu Cafe",
+  "name":"L'Imprévu Café",
+  "lat":"48.8595009",
+  "lng":"2.3496599",
+  "address":"9 rue Quincampoix 75004 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Bizz'Art Bar-Live-Resto-Club",
+  "name":"Bizz'Art",
+  "lat":"48.8790703",
+  "lng":"2.3664701",
+  "address":"167, Quai de Valmy - Canal St Martin 75010 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"The Cricketer",
+  "name":"The Cricketer",
+  "lat":"48.8731918",
+  "lng":"2.3241601",
+  "address":"37 rue de l'Arcade 75008 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Scandale",
+  "name":"Le Scandale",
+  "lat":"48.8814697",
+  "lng":"2.34076",
+  "address":"4 rue Viollet le Duc 75009 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Chouff'Bar",
+  "name":"Le Chouff bar",
+  "lat":"48.8429985",
+  "lng":"2.34866",
+  "address":"16 Rue Du Pot De Fer 75005 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"GLAZART",
+  "name":"Glazart",
+  "lat":"48.8992615",
+  "lng":"2.3868699",
+  "address":"7/15 av. Porte de la Villette 75019 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le PILI PILI",
+  "name":"Pili Pili",
+  "lat":"48.8670082",
+  "lng":"2.3750601",
+  "address":"70 rue Jean Pierre Timbaud 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Bottleshop Bar",
+  "name":"Le Bottle Shop",
+  "lat":"48.8512268781",
+  "lng":"2.37872682942",
+  "address":"5, rue Trousseau 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Trois-w Kafé",
+  "name":"3W Kafé",
+  "lat":"48.8565477491",
+  "lng":"2.35845439437",
+  "address":"8, rue des Ecouffes 75004 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Chapeau Melon",
+  "name":"Chapeau Melon",
+  "lat":"48.8736687",
+  "lng":"2.3828599",
+  "address":"92 rue Rebeval 75019 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"En Vrac",
+  "name":"En Vrac",
+  "lat":"48.8902512",
+  "lng":"2.3613501",
+  "address":"2, rue l'olive 75018 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"EPICERIE MUSICALE",
+  "name":"L'Epicerie Musicale",
+  "lat":"48.8704796",
+  "lng":"2.36551",
+  "address":"55 bis Quai de Valmy 75010 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"La Cave Marcadet",
+  "name":"La Cave Marcadet",
+  "lat":"48.8913116",
+  "lng":"2.3379099",
+  "address":"157 rue Marcadet 75018 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Redd",
+  "name":"Redd",
+  "lat":"48.866221229",
+  "lng":"2.34773279",
+  "address":"28 rue Saint Sauveur 75002 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Les caves de Prague",
+  "name":"Les Caves de Prague",
+  "lat":"48.8496895",
+  "lng":"2.37603",
+  "address":"8 rue de prague 75012 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"La Cave de Belleville",
+  "name":"La Cave de Belleville",
+  "lat":"48.8731804",
+  "lng":"2.3810899",
+  "address":"51 rue de Belleville 75019 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Inaro",
+  "name":"Inaro",
+  "lat":"48.8681576012",
+  "lng":"2.36134622413",
+  "address":"38 rue René Boulanger 75010 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le club des buveurs du 11ème domaine",
+  "name":"Le 11ème Domaine",
+  "lat":"48.866909",
+  "lng":"2.37361",
+  "address":"14 rue des Trois Bornes 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Hotel Joséphine",
+  "name":"Joséphine",
+  "lat":"48.8822784",
+  "lng":"2.3317699",
+  "address":"67 rue Blanche 75009 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"BONjour tout le monde",
+  "name":"Le Tout-Monde",
+  "lat":"48.8571701",
+  "lng":"2.3287201",
+  "address":"  Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"La Cave à Michel",
+  "name":"La Cave Ã  Michel",
+  "lat":"48.8743286",
+  "lng":"2.3728099",
+  "address":"36 Rue Sainte-Marthe 75010 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"L'Agence",
+  "name":"L'Agence",
+  "lat":"48.8802795",
+  "lng":"2.3155",
+  "address":"102 bis rue de Miromesnil 75008 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Aux deux cygnes",
+  "name":"Aux Deux Cygnes",
+  "lat":"48.8555107",
+  "lng":"2.3754001",
+  "address":"36, rue Keller 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Comestibles Et Marchand De Vins",
+  "name":"Comestibles & Marchand de Vins",
+  "lat":"48.8913918",
+  "lng":"2.34354",
+  "address":"65 Rue Du Mont Cenis 75018 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Baron Rouge",
+  "name":"Le Baron Rouge",
+  "lat":"48.8494415",
+  "lng":"2.3774199",
+  "address":"1 Rue Théophile Roussel 75012 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Garde Robe",
+  "name":"Le Garde Robe",
+  "lat":"48.8610382",
+  "lng":"2.3424001",
+  "address":"41, rue de l'arbre sec 75001 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Carbone 14",
+  "name":"Carbone 14",
+  "lat":"48.8555908",
+  "lng":"2.38727",
+  "address":"6 rue Emile Lepeu 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Au bon coin",
+  "name":"Au Bon Coin",
+  "lat":"48.8381954514",
+  "lng":"2.35167771395",
+  "address":"21 rue de Collégiale 75005 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Chez Georges",
+  "name":"Chez Georges",
+  "lat":"48.8521881",
+  "lng":"2.33374",
+  "address":"11 rue des Canettes 75006 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Café La Fusée",
+  "name":"La Fusée",
+  "lat":"48.8621597",
+  "lng":"2.35201",
+  "address":"168 Rue St Martin 75003 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"L'entracte",
+  "name":"L'Entracte",
+  "lat":"48.8332287357",
+  "lng":"2.35437890718",
+  "address":"1 Rue Auber   75013 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Connétable",
+  "name":"Le Connétable",
+  "lat":"48.8614502",
+  "lng":"2.3583801",
+  "address":"55 rue des Archives 75003 Paris Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Barometre",
+  "name":"Le Baromètre",
+  "lat":"48.8617096",
+  "lng":"2.36112",
+  "address":"17 rue charlot 75003 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"La Renaissance",
+  "name":"La Renaissance",
+  "lat":"48.8732525",
+  "lng":"2.343656",
+  "address":"37 rue Bouret 75019 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Cinquante",
+  "name":"Le Cinquante",
+  "lat":"48.8719482",
+  "lng":"2.3626699",
+  "address":"50, rue de Lancry 75010 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"L'Entrée des Artistes",
+  "name":"L'Entrée des Artistes",
+  "lat":"48.8639603",
+  "lng":"2.36747",
+  "address":"8 rue de Crussol 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Les Caves Populaires",
+  "name":"Les Caves Populaires",
+  "lat":"48.8847389",
+  "lng":"2.32459",
+  "address":"22 rue des dames 75017 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"BarOurcq",
+  "name":"Bar Ourcq",
+  "lat":"48.8864708",
+  "lng":"2.3771501",
+  "address":"68 quai de la Loire 75019 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Leche Vin",
+  "name":"Le Lèche Vin",
+  "lat":"48.8549777982",
+  "lng":"2.37061123052",
+  "address":"13 rue Daval 75011 PARIS 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Café du Marché",
+  "name":"Le Café du Marché",
+  "lat":"48.8485107",
+  "lng":"2.32792",
+  "address":"81 Boulevard Raspail 75006 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"China",
+  "name":"China",
+  "lat":"48.8585801134",
+  "lng":"2.35141023549",
+  "address":" 75004 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Racines 2",
+  "name":"Racines",
+  "lat":"48.8610001",
+  "lng":"2.3423901",
+  "address":"39 rue de L'arbre sec 75001 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Chez Prosper",
+  "name":"Chez Prosper",
+  "lat":"48.8485718",
+  "lng":"2.3982301",
+  "address":"7 Av du Trône 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Pop-Up du Label",
+  "name":"Le Pop-Up du Label",
+  "lat":"48.8475646617",
+  "lng":"2.37543594629",
+  "address":"14 rue Abel 75012 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Verre Volé",
+  "name":"Le Verre Volé",
+  "lat":"48.8728294",
+  "lng":"2.3635099",
+  "address":"67 Rue de Lancry 75010 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Café de l'Industrie",
+  "name":"Café de l'Industrie",
+  "lat":"48.8554802",
+  "lng":"2.3719499",
+  "address":"16 rue Saint-Sabin 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Chair De Poule",
+  "name":"Chair de Poule",
+  "lat":"48.8676682",
+  "lng":"2.3754599",
+  "address":"141 Rue St Maur 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Rosa Bonheur",
+  "name":"Rosa Bonheur",
+  "lat":"48.8800512168",
+  "lng":"2.38636647796",
+  "address":"2, allée de la Cascade 75019 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Rouge Passion",
+  "name":"Rouge Passion",
+  "lat":"48.8786930258",
+  "lng":"2.33278879091",
+  "address":"14, rue Jean-Baptiste Pigalle 75009 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Les Fines Gueules -  Restaurant",
+  "name":"Les Fines Gueules",
+  "lat":"48.8652306",
+  "lng":"2.3407099",
+  "address":"43 Rue Croix des Petits Champs 75001 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Tambour",
+  "name":"Le Tambour",
+  "lat":"48.8654518",
+  "lng":"2.3447001",
+  "address":"41 rue Montmartre 75002 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Brebant",
+  "name":"Le Brébant",
+  "lat":"48.8715782",
+  "lng":"2.3435299",
+  "address":"32 Boulevard Poissonnière 75009 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Tour Eiffel",
+  "name":"Toro",
+  "lat":"48.8590255963",
+  "lng":"2.29811714443",
+  "address":"5, avenue Anatole France – Champ de Mars 75007 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"J'go",
+  "name":"J'Go",
+  "lat":"48.8525505",
+  "lng":"2.33618",
+  "address":"6 Rue Clément 75006 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Père Fouettard",
+  "name":"Le Père Fouettard",
+  "lat":"48.8625793",
+  "lng":"2.3483901",
+  "address":"9 rue Pierre Lescot 75001 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"Le Sancerre",
+  "name":"Le Sancerre",
+  "lat":"48.8849983",
+  "lng":"2.3369401",
+  "address":"35 Rue des Abbesses 75018 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+},
+{
+  "id":"La Buvette",
+  "name":"La Buvette",
+  "lat":"48.8629189",
+  "lng":"2.3793099",
+  "address":"67 rue Saint Maur 75011 Paris",
+  "image" : "http://www.lorempixel.com/100/100",
+  "pins": ["lgbt","all","biere","le bonbon", "timeout"]
+}]}
