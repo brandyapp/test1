@@ -184,6 +184,10 @@ h1{
 	text-shadow: none;
 }
 
+#map-canvas {
+	background: transparent url(design/loader.gif) no-repeat center center;
+}
+
 }
 
 @media only screen and (min-device-width : 769px) {
