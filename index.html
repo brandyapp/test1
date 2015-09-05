@@ -56,22 +56,22 @@
 
   <div class="list">
     
-    <div id="test" class="data1"><img src="design/3europin30.png"><br><h3>Bieres</h3></div>
-    <div id="test" class="data2"><img src="design/lebonbonpin30.png"><br><h3>Le bonbon</h3></div>
-    <div id="test" class="data3"><img src="design/rockpin30.png"><br><h3>Rock</h3></div>
-    <div id="test" class="data4"><img src="design/timeoutpin30.png"><br><h3>Timeout</h3></div>
-    <div id="test" class="data5"><img src="design/terrassepin30.png"><br><h3>Terrasses</h3></div>
-    <div id="test" class="data1"><img src="design/lgbtpin30.png"><br><h3>Gay</h3></div>
-    <div id="test" class="data2"><img src="design/electropin30.png"><br><h3>gay friendly</h3></div>
-    <div id="test" class="data3"><img src="design/tabacpin30.png"><br><h3>tabac</h3></div>
-    <div id="test" class="data4"><img src="design/3europin30.png"><br><h3>Bieres</h3></div>
-    <div id="test" class="data5"><img src="design/lgbtpin30.png"><br><h3>bieres</h3></div>
-    <div id="test" class="data1"><img src="design/allpin30.png"><br><h3>tous les events</h3></div>
-    <div id="test" class="data4"><img src="design/lebonbonpin30.png"><br><h3>le bonbon</h3></div>
-    <div id="test" class="data1"><img src="design/electropin30.png"><br><h3>Electro</h3></div>
-    <div id="test" class="data1"><img src="design/rockpin30.png"><br><h3>rock</h3></div>
-    <div id="test" class="data1"><img src="design/tabacpin30.png"><br><h3>tabac</h3></div>
-    <div id="test" class="data5"><img src="design/timeoutpin30.png"><br><h3>timeout</h3></div>  </div>
+    <div id="test" class="data1"><img src="http://www.brandyapp.co/appfinal/design/3europin30.png"><br><h3>Bieres</h3></div>
+    <div id="test" class="data2"><img src="http://www.brandyapp.co/appfinal/design/lebonbonpin30.png"><br><h3>Le bonbon</h3></div>
+    <div id="test" class="data3"><img src="http://www.brandyapp.co/appfinal/design/rockpin30.png"><br><h3>Rock</h3></div>
+    <div id="test" class="data4"><img src="http://www.brandyapp.co/appfinal/design/timeoutpin30.png"><br><h3>Timeout</h3></div>
+    <div id="test" class="data5"><img src="http://www.brandyapp.co/appfinal/design/terrassepin30.png"><br><h3>Terrasses</h3></div>
+    <div id="test" class="data1"><img src="http://www.brandyapp.co/appfinal/design/lgbtpin30.png"><br><h3>Gay</h3></div>
+    <div id="test" class="data2"><img src="http://www.brandyapp.co/appfinal/design/electropin30.png"><br><h3>gay friendly</h3></div>
+    <div id="test" class="data3"><img src="http://www.brandyapp.co/appfinal/design/tabacpin30.png"><br><h3>tabac</h3></div>
+    <div id="test" class="data4"><img src="http://www.brandyapp.co/appfinal/design/3europin30.png"><br><h3>Bieres</h3></div>
+    <div id="test" class="data5"><img src="http://www.brandyapp.co/appfinal/design/lgbtpin30.png"><br><h3>bieres</h3></div>
+    <div id="test" class="data1"><img src="http://www.brandyapp.co/appfinal/design/allpin30.png"><br><h3>tous les events</h3></div>
+    <div id="test" class="data4"><img src="http://www.brandyapp.co/appfinal/design/lebonbonpin30.png"><br><h3>le bonbon</h3></div>
+    <div id="test" class="data1"><img src="http://www.brandyapp.co/appfinal/design/electropin30.png"><br><h3>Electro</h3></div>
+    <div id="test" class="data1"><img src="http://www.brandyapp.co/appfinal/design/rockpin30.png"><br><h3>rock</h3></div>
+    <div id="test" class="data1"><img src="http://www.brandyapp.co/appfinal/design/tabacpin30.png"><br><h3>tabac</h3></div>
+    <div id="test" class="data5"><img src="http://www.brandyapp.co/appfinal/design/timeoutpin30.png"><br><h3>timeout</h3></div>  </div>
 
 </div>
 
@@ -114,7 +114,7 @@
               var marker1 = new google.maps.Marker({
                 map: map,
                 position: pos,
-                icon: 'design/user.png'
+                icon: 'http://www.brandapp.co/appfinal/design/user.png'
               });
 
               map.setCenter(pos);
@@ -221,13 +221,13 @@
                       var marker = new google.maps.Marker({
                        position: myLatlng,
                        label:'6.5',
-                       icon: 'design/'+pins+'.png'                      
+                       icon: 'http://www.brandyapp.co/appfinal/design/'+pins+'.png'                      
                       });
 
                       //construction du code HTML pour pins dans le cartouche
                       var pinCartouche = '';
                       for (i=0; i < response.pins.length; i++) {
-                        pinCartouche = pinCartouche + '<object type="image/svg+xml" data="design/' + response.pins[i] + 'pin30.svg" width="40px"></object>';
+                        pinCartouche = pinCartouche + '<object type="image/svg+xml" data="http://www.brandyapp.co/appfinal/design/' + response.pins[i] + 'pin30.svg" width="40px"></object>';
                       }
                       console.log(pinCartouche);
                       // creation de l'infowindow du marker
