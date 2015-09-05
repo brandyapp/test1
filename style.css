@@ -55,7 +55,9 @@
 	text-shadow: none;
 
 }
-
+#map-canvas {
+	background: transparent url(http://www.brandyapp.co/applifinal/design/loader.gif) no-repeat center center;
+}
 @media only screen and (max-device-width : 769px) {
 
 object {
@@ -184,9 +186,7 @@ h1{
 	text-shadow: none;
 }
 
-#map-canvas {
-	background: transparent url(design/loader.gif) no-repeat center center;
-}
+
 
 }
 
