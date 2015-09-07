@@ -223,7 +223,7 @@
                       //construction du code HTML pour pins dans le cartouche
                       var pinCartouche = '';
                       for (i=0; i < response.pins.length; i++) {
-                        pinCartouche = pinCartouche + '<object type="image/svg+xml" data="design/' + response.pins[i] + 'pin.svg" width="40px"></object>';
+                        pinCartouche = pinCartouche + '<object type="image/svg+xml" data="http://www.brandyapp.co/applifinal/design/' + response.pins[i] + 'pin.svg" width="40px"></object>';
                       }
                       console.log(pinCartouche);
                       // creation de l'infowindow du marker
