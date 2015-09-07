@@ -1,0 +1,208 @@
+
+.slide {
+	top:0;
+}
+.bottom-button ul{
+	bottom: 0;
+	position: fixed;
+	background-color: #170e27;
+	width: 50%;
+	height: 35px;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-bottom: 10px;
+	padding-left: 0;
+	box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
+            
+}
+.bottom-button li{
+	display: inline;
+	float: left;
+	text-align: center;
+	width: 100%;
+	height: 65px;
+	margin: auto; 
+}
+
+
+.bottom-button a {
+	text-decoration: none;
+	display: block;
+	color: #f1f1f1;
+	text-shadow: none;
+	
+}
+
+.list{
+	position: absolute;
+	top:10vh;
+	padding-top: 20px;
+
+}
+
+.titre h1 {
+	font-size: 16px;
+	color: #f1f1f1;
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+	height: 40px;
+	background-color: #170e27;
+	text-align: center;
+	margin: 15 0 15 0px;
+	line-height: 40px;
+	padding: 0;
+	text-shadow: none;
+
+}
+
+#map-canvas {background: transparent url(http://www.brandyapp.co/applifinal/design/loader.gif) no-repeat center center;}
+
+@media only screen and (max-device-width : 769px) {
+
+object {
+	margin-left: 10px;
+	margin-right: 5px;
+	margin-top: 10px;
+}
+.map {
+	position: absolute;
+	/*bottom:165px;*/
+	width: 100%;
+	height: 100%;
+
+}
+#test { 
+	position: relative;
+	float: left;
+	width: 30vw;
+    height: 30vw;
+    margin: 0!important;
+    padding:5px;
+    background-color: #fff;
+    text-align: center;
+}
+
+#test img{
+	height: 66px;
+	border: 2px solid #fff;
+    -webkit-border-radius: 45px;
+    -moz-border-radius:    45px;
+    border-radius:         45px;
+}
+
+#test h3{
+	font-size: 12px;
+	color: #111;
+	margin-top: 0;
+	border: 2px solid #fff;
+	text-shadow: none;
+}
+
+
+
+
+.info-window{
+	position : fixed;
+	z-index: 1;
+    width: 100%;
+    height: 90px;
+    bottom: 65px;
+    background-color: #efefef;
+    overflow: hidden;
+ 
+}
+
+.info-window img{
+	position: fixed;
+	border: 65px;
+	left: 0px;
+	height: 90px;
+	width: 90px;
+}
+
+.info-window h4 {
+	position: relative;
+	line-height: 10px;
+	padding: 5px;
+	margin-top: 10px;
+	margin-bottom: -17px;
+	color: #222;
+	font-size: 12px;
+	text-shadow: none;
+	left: 110px;
+	width: calc(100vw - 140px);
+	position: relative;
+}
+
+
+.info-window p{
+	position: absolute;
+	top: -5px;
+	right: 15px;
+	float: right;
+	color: #FFFF99;
+}
+
+.pinCartouche{
+	left: 100px;
+	width: calc(100vw - 100px);
+	position: relative;
+
+}
+
+.info-window .pinCartouche img {
+	
+	display: inline-block;
+	position: relative;
+	padding: 0px;
+	margin-top: 10px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	margin-right: 0px;
+	width: 30px;
+	height: 30px;
+
+}
+
+.info-window .pinCartouche svg {
+
+	display: inline-block;
+	position: relative;
+	padding: 0px;
+	margin-top: 10px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	margin-right: 0px;
+	/*width: 30px;
+	height: 30px;*/
+}
+
+h1{
+	font-size: 16px;
+	color: white;
+	padding:5%;
+	margin: 0; 
+	text-shadow: none;
+}
+
+}
+
+@media only screen and (min-device-width : 769px) {
+
+.map {
+	position: absolute;
+	top: 10%;
+	left: 10%;
+	width: 80%;
+	height: 80%;
+
+}
+
+.info-window{
+	margin: auto;
+	position : fixed;
+	top: 10%;
+}
+
+}
