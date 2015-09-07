@@ -1,0 +1,421 @@
+{
+"data": [
+ {
+  "name":"49.3",
+  "id":"1565211617076623",
+  "lat":"48.8554879",
+  "lng":"2.38458126",
+  "address":"3 cité Phalsbourg 75011 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c6.0.50.50/p50x50/11745360_1593469797584138_3162410938728670903_n.jpg?oh=2784f5d9209d2ba63e795cc87be89ff1&oe=56AAF934&__gda__=1449038109_06149155dbb3603a7baa0ffc7f60f806"
+},
+
+
+
+ {
+  "name":"Bièrissime",
+  "id":"462877600466465",
+  "lat":"48.8764191",
+  "lng":"2.3555901",
+  "address":"85 bis boulevard Magenta 75010 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c28.10.123.123/s50x50/420072_462884907132401_134598610_n.jpg?oh=6b12ea958441d96f0a63e2a7eae2b30c&oe=567146AC&__gda__=1449299424_fbc46220ca844ee8eab1d09d7289d148"
+},
+ {
+  "name":"Bombardier",
+  "id":"128800297155291",
+  "lat":"48.8466311584",
+  "lng":"2.3474560812",
+  "address":"2, place du Panthéon 75005 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xft1/v/t1.0-1/p50x50/11124838_829551227080191_990715968555917584_n.jpg?oh=328bafffe3ce5a8e2c189da3da3fe222&oe=56724BC0&__gda__=1449487132_36ecbeaa6edd6553ad9f92d54efd66a7"
+},
+ {
+  "name":"Bottle Shop",
+  "id":"219349558188826",
+  "lat":"48.8511696",
+  "lng":"2.3785501",
+  "address":"5, rue Trousseau 75011 Paris",
+  "pins": ["barabieres","barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c12.12.155.155/s50x50/1743501_228632173927231_1456018581_n.jpg?oh=39473c275abf787484b5e6e4ec498ffe&oe=5670A7C7&__gda__=1449379813_b4fed496af35274f8e077f153149e28a"
+},
+ {
+  "name":"Brasserie de La Goutte d’or",
+  "id":"244985455571377",
+  "lat":"48.8850076282",
+  "lng":"2.35244570203",
+  "address":"28 rue de la Goutte d'Or 75018 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c1.0.50.50/p50x50/10959377_753511101385474_4135808368249916015_n.png?oh=aba3e8c32eab366dba6525fba6665b7e&oe=56704D9B&__gda__=1449619111_7105b88a39eb2f96c4d6a52bee5f1310"
+},
+ {
+  "name":"Brewberry",
+  "id":"112193145482420",
+  "lat":"48.8430697354",
+  "lng":"2.34861782113",
+  "address":"18 rue du pot de fer 75005 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xta1/v/t1.0-1/p50x50/10406908_726445827390479_2873937238541968010_n.jpg?oh=2770fadd6ee579e302074fce305b03f0&oe=5667D575"
+},
+ {
+  "name":"Brooklyn",
+  "id":"432424223499026",
+  "lat":"48.8613701",
+  "lng":"2.3507099",
+  "address":"58 rue Quincampoix 75004 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Chop'In",
+  "id":"194401103937285",
+  "lat":"48.8769798",
+  "lng":"2.3343301",
+  "address":"52 Rue St Lazare 75009 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-prn2/v/t1.0-1/c32.12.149.149/s50x50/225093_194402137270515_7506588_n.jpg?oh=2423189ceb83b74c9947ddaab78d42d5&oe=566A3BD8"
+},
+ {
+  "name":"Chouff'Bar",
+  "id":"229002500499882",
+  "lat":"48.8429985",
+  "lng":"2.34866",
+  "address":"16 Rue Du Pot De Fer 75005 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/p50x50/400093_257850014281797_1745982355_n.jpg?oh=f7d739364f0e5aa0d99628e3d75aee2a&oe=5662E138"
+},
+ {
+  "name":"Clichy's Tavern",
+  "id":"177909869022569",
+  "lat":"48.8845058936",
+  "lng":"2.32940184861",
+  "address":"Boulevard De Clichy 75018 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p50x50/1521727_10153745581680354_786885440_n.jpg?oh=070438060689cbe6d71ddd7d128bac2d&oe=565D33EA&__gda__=1454073666_353a5128b0bae60df297146358c7daf4"
+},
+ {
+  "name":"Connolly's Corner",
+  "id":"197229523633334",
+  "lat":"48.8410683",
+  "lng":"2.3509099",
+  "address":"12 rue de Mirbel 75005 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/p50x50/11070417_10153942049754881_715548789553791820_n.jpg?oh=689a8c22bd09293be76af5b260e6ccab&oe=567AE692"
+},
+
+ {
+  "name":"Demory",
+  "id":"488912044475332",
+  "lat":"48.8616714",
+  "lng":"2.3508699",
+  "address":"62 rue quincampoix 75004 Paris",
+  "pins": ["barabieres","lebonbon"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-frc3/v/t1.0-1/p50x50/1391838_649451631754705_1664574265_n.jpg?oh=125026f7b469eb829c654e66ab815239&oe=56692C14"
+},
+ {
+  "name":"Frog & British Library",
+  "id":"161582397204317",
+  "lat":"48.8308716",
+  "lng":"2.37675",
+  "address":"114 ave de France 75013 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpt1/v/t1.0-1/p50x50/11401186_1097395966956284_5615318338859409992_n.jpg?oh=5f17c897029fb514f832ad75d825db8c&oe=5662F455"
+},
+ {
+  "name":"Frog & Princess",
+  "id":"236175279769506",
+  "lat":"48.8522911",
+  "lng":"2.3345499",
+  "address":"9 rue Princesse 75006 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p50x50/10958805_854659094587785_4901444260572883368_n.jpg?oh=0e7c57c7bee43eb284e626baf0e3b0bc&oe=56A91936&__gda__=1454064797_8683548fe0a6fdd31fa1ca2c2a462895"
+},
+ {
+  "name":"Frog & Rosbif",
+  "id":"122262581185929",
+  "lat":"48.864399",
+  "lng":"2.35026",
+  "address":"116, rue St Denis 75002 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p50x50/11425152_857495547662625_888000730475923146_n.jpg?oh=5775e21ffa1e2b61660610ba6fa725f4&oe=56A8B886&__gda__=1453981476_2fc25e32b18d3070783d67ebfc71986e"
+},
+ {
+  "name":"Frog at Bercy village",
+  "id":"146115492097645",
+  "lat":"48.8329697",
+  "lng":"2.38622",
+  "address":"25, Cour St-Emilion 75012 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p50x50/1545995_972996142742905_1238447429706178833_n.jpg?oh=6b7c801f7b46fab43a78aaaa16b00e64&oe=565D0C04&__gda__=1449867896_984079ad4b186e706d7f885bb7bf61b5"
+},
+ {
+  "name":"Frog Hop House",
+  "id":"372299132952927",
+  "lat":"48.8688393",
+  "lng":"2.3296199",
+  "address":"10 rue des Capucines 75002 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/p50x50/11058178_438105796372260_6466677571174443638_n.jpg?oh=dde6b51d0631059f49e4be2c6fb065ca&oe=56A7D2E9"
+},
+ {
+  "name":"Frog Revolution",
+  "id":"759163537477981",
+  "lat":"48.8538818",
+  "lng":"2.3682599",
+  "address":"9 rue de la Bastille 75004 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p50x50/11407185_928599733867693_4195987519756457847_n.jpg?oh=5b311713440a5079a9b0d7a200b6f043&oe=56635CB6&__gda__=1450901376_b6641aa3280befbdd9b15dabbd945002"
+},
+ {
+  "name":"Frog XVI",
+  "id":"122567411130977",
+  "lat":"48.8647919",
+  "lng":"2.28825",
+  "address":"110 bis avenue Kléber Paris 75016 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p50x50/1509179_835766959811015_6603448743906115140_n.jpg?oh=658a592ac415b8e577337bf10967de2d&oe=565F9920&__gda__=1450870108_704849dcebe5d9eadbd61d7ef2d72564"
+},
+ {
+  "name":"Hall's Beer",
+  "id":"308078852731127",
+  "lat":"48.8616382048",
+  "lng":"2.34909804652",
+  "address":"68 rue Saint-Denis 75001 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c4.0.50.50/p50x50/10846073_308079139397765_6326545822072901560_n.jpg?oh=18b03aeb7ba2ca5cfef0693bfc167bf8&oe=567CAE3E&__gda__=1450002029_c24361dd5ebbb838afb17b75cb0d517c"
+},
+ {
+  "name":"Harry's New York Bar",
+  "id":"148282981897528",
+  "lat":"48.8692589",
+  "lng":"2.3320999",
+  "address":"5 rue Daunou 75002 Paris",
+  "pins": ["barabieres","barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/p50x50/10888630_862473307145155_7333989508063501414_n.jpg?oh=9767bd6989e685495664da8dae3808e5&oe=56712F99&__gda__=1451163903_ef586ac9b42e6a9250dbc9eb8c589002"
+},
+ {
+  "name":"Les Dessous de Paris",
+  "id":"689496281163095",
+  "lat":"48.8615189",
+  "lng":"2.3506801",
+  "address":"57 rue Quincampoix 75004 75004 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/y5/r/j258ei8TIHu.png"
+},
+ {
+  "name":"Les Trois 8",
+  "id":"372649342768271",
+  "lat":"48.8666687",
+  "lng":"2.3855",
+  "address":"11, rue Victor Letalle 75020 Paris",
+  "pins": ["barabieres"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/p50x50/10176075_763965810303287_6963100636524127823_n.jpg?oh=e67357a73d483e08cff7b6358b6c5347&oe=5668EB35&__gda__=1450046803_339e65b80616ff9351281ff3ce89bb30"
+},
+
+ {
+  "name":"Lizard Lounge",
+  "id":"164597706888579",
+  "lat":"48.857399",
+  "lng":"2.3562701",
+  "address":"18 rue du Bourg Tibourg 75004 Paris",
+  "pins": ["barabieres","barclub","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xat1/v/t1.0-1/p50x50/10403411_10155180646490647_2086590444541184882_n.jpg?oh=83fb35a888d8b7d7bc0180f65157e6bc&oe=56AA35ED&__gda__=1449744842_b7e549469548299a81c9fa0a581c795d"
+},
+ {
+  "name":"O'neil",
+  "id":"50194981491",
+  "lat":"48.8518486",
+  "lng":"2.3336599",
+  "address":"20 Rue des Canettes 75006 Paris",
+  "pins": ["barabieres","barcocktails","lebonbon"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c0.0.50.50/p50x50/11057451_10153205555296492_7129823519448712007_n.jpg?oh=4230b63461446a43dbd956b14ef19f27&oe=56AA07E8&__gda__=1450623006_adc9c9daf2a24160779f5fa1a55d1f8b"
+},
+ {
+  "name":"Paname Brewing Company",
+  "id":"552467018217562",
+  "lat":"48.8877110056",
+  "lng":"2.37864732742",
+  "address":"41 Quai de la Loire 75019 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/c12.0.50.50/p50x50/16230_601663373297926_6733912258901884814_n.jpg?oh=01a9b7bd5336619dcefa442343c35960&oe=567CD8C5&__gda__=1449007735_f1431b076665122a539a4100f9cef4a6"
+},
+
+ {
+  "name":"Stolly's",
+  "id":"147918018576076",
+  "lat":"48.8563919",
+  "lng":"2.3573301",
+  "address":"16, rue Cloche Percé 75004 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Supercoin",
+  "id":"277153892340734",
+  "lat":"48.892194418",
+  "lng":"2.34702266966",
+  "address":"3 rue Baudelique 75018 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xft1/v/t1.0-1/p50x50/10906195_821498454572939_7089792348951920768_n.jpg?oh=3b5b90c023e7f9d303762126a07eac84&oe=56AA5539&__gda__=1451077165_594d2a310e4400f09e2416f97a81d006"
+},
+ {
+  "name":"Teddy's Bar",
+  "id":"417164071673804",
+  "lat":"48.845046659",
+  "lng":"2.34940006742",
+  "address":"3 RUE THOUIN 75005 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/c170.50.621.621/s50x50/561738_417170945006450_1455713456_n.jpg?oh=8c7b78e852bde50fc57f961858e4ce54&oe=566FF308"
+},
+ {
+  "name":"Académie de La Bière",
+  "id":"131557556891713",
+  "lat":"48.83918",
+  "lng":"2.3392501",
+  "address":"88 bis boulevard de Port-Royal 75005 Paris",
+  "pins": ["barabieres","lebonbon"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p50x50/1493243_830964773601069_7137891203939474089_n.jpg?oh=6c0bae5c4ea0f067204f594313f70bcd&oe=56ABD320&__gda__=1449441523_b3b1349ac8c80072b7ffaa66f206ed3a"
+},
+ {
+  "name":"Bouillon Belge",
+  "id":"178212718887309",
+  "lat":"48.8521805",
+  "lng":"2.3992901",
+  "address":"6 rue Planchat 75020 Paris",
+  "pins": ["barabieres","barcache","timeout"],
+  "note":"3.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/c5.0.50.50/p50x50/64618_470550186320226_1256758944_n.jpg?oh=fabf972a70b159a03a27e8dc9184cd14&oe=567E49AB"
+},
+ {
+  "name":"Café Titon",
+  "id":"145478595548113",
+  "lat":"48.8528595",
+  "lng":"2.3863599",
+  "address":"34, rue titon 75011 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-frc3/v/t1.0-1/c55.110.552.552/s50x50/602862_402138419882128_1433505368_n.jpg?oh=448166cae14ea181752a61ecc5c281e7&oe=56A9A053"
+},
+ {
+  "name":"Connolly’s corner",
+  "id":"197229523633334",
+  "lat":"48.8410683",
+  "lng":"2.3509099",
+  "address":"12 rue de Mirbel 75005 Paris",
+  "pins": ["barabieres"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/p50x50/11070417_10153942049754881_715548789553791820_n.jpg?oh=689a8c22bd09293be76af5b260e6ccab&oe=567AE692"
+},
+ {
+  "name":"Cordonnerie",
+  "id":"154091774613706",
+  "lat":"48.8652115",
+  "lng":"2.35062",
+  "address":"28, Rue Greneta 75010 Paris",
+  "pins": ["barabieres","lebonbon","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/p50x50/10462724_10152271213349426_8706978604596091753_n.jpg?oh=5cd06eea620b9a9215085e6fd4dd0551&oe=567B0A00&__gda__=1449242505_4ec620d241860c55001c3067b7660a06"
+},
+ {
+  "name":"Express de Lyon",
+  "id":"250206515102179",
+  "lat":"48.8473587",
+  "lng":"2.3719201",
+  "address":"10, rue de Lyon 75012 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/v/t1.0-1/p50x50/10407768_601779199944907_606918196755736647_n.png?oh=ffc7a8e376d97290095b901e750c108b&oe=56712192&__gda__=1448971767_df2b81dc4dc5d5dfeecc0802254ac241"
+},
+ {
+  "name":"Falstaff",
+  "id":"158712497481718",
+  "lat":"48.8428192",
+  "lng":"2.3260801",
+  "address":"42 Rue du Montparnasse, 75014 Paris 75014 Paris",
+  "pins": ["barabieres"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/p50x50/11933444_10153740129617847_3132380247448213964_n.jpg?oh=509200d9370d0cd618fffbd5a53e7041&oe=5670F278&__gda__=1450502931_1ba4e6b9f47a752db3d0303cc6ab5479"
+},
+ {
+  "name":"Festin Nu",
+  "id":"467850496603700",
+  "lat":"48.8904959536",
+  "lng":"2.33921617631",
+  "address":"10 rue de la Fontaine du But 75018 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"3.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xat1/v/t1.0-1/c66.66.828.828/s50x50/21103_489180407804042_292266060_n.jpg?oh=ca43545a8cf5e8ecd55b80b2e7155b24&oe=566DFC78"
+},
+ {
+  "name":"Fine Mousse",
+  "id":"254454564615695",
+  "lat":"48.8648605",
+  "lng":"2.3817699",
+  "address":"6 avenue Jean Aicard 75011 Paris",
+  "pins": ["barabieres","baravin","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p50x50/1383063_581634058564409_787655640_n.jpg?oh=bda6be13cf7fcfbc31a88c1f9d2a7b26&oe=56678F37&__gda__=1450460989_87bb9ba2090dda0dc16d2e38b823611a"
+},
+ {
+  "name":"Guinness Tavern",
+  "id":"159681857499804",
+  "lat":"48.8597806021",
+  "lng":"2.34847612497",
+  "address":"31 bis rue des lombards  75001 PARIS 75001 Paris",
+  "pins": ["bar2h","barabieres","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xal1/v/t1.0-1/p50x50/11988433_1633625143554064_7195635187821242243_n.jpg?oh=133fde3a53866d83aec7696336372bf1&oe=56AA2CF7&__gda__=1449530935_72d2093c28e69466f1b22aa70350fea2"
+},
+ {
+  "name":"Péniche Antipode",
+  "id":"246713538690728",
+  "lat":"48.8867034463",
+  "lng":"2.37517777553",
+  "address":"Face au 55 quai de Seine 75019 Paris",
+  "pins": ["barabieres","barclub","timeout"],
+  "note":"4.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/p50x50/11745417_1078561238839283_4361436385943148228_n.jpg?oh=4973f22298d4a017f0f40a5b63a91f79&oe=565D62EB"
+},
+
+ {
+  "name":"Troll Café",
+  "id":"167533286650715",
+  "lat":"48.8500404",
+  "lng":"2.378",
+  "address":"27, rue de Cotte 75012 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtp1/v/t1.0-1/p50x50/11062355_861191320618238_3955564954795282649_n.jpg?oh=cafd94bc78de44c622cef6b829f78bc6&oe=566CDF01&__gda__=1450685638_41b3cb1c260e3488f94bfb73ce840279"
+}
+
+]}
