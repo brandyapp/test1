@@ -1,0 +1,2943 @@
+{
+"data": [
+ {
+  "name":"114 Up On Roof",
+  "id":"484740991609685",
+  "lat":"48.840229",
+  "lng":"2.2354801",
+  "address":"Hotel Marriott - 114 route de la Reine 92100 Boulogne-Billancourt",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"11ème Domaine",
+  "id":"149746978568651",
+  "lat":"48.866909",
+  "lng":"2.37361",
+  "address":"14 rue des Trois Bornes 75011 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-frc3/v/t1.0-1/c0.0.50.50/p50x50/563989_149747701901912_1043907866_n.jpg?oh=37b70cbbec62007c62a0e5490a7e766b&oe=56A9B708&__gda__=1451121539_87ea9c0c9fb6996e19695b9320ca6064"
+},
+ {
+  "name":"25 Degrés Est",
+  "id":"162962367048210",
+  "lat":"48.8839510496",
+  "lng":"2.370664376",
+  "address":"Place de la bataille de Stalingrad 75019 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/v/t1.0-1/c19.0.50.50/p50x50/10614160_834775316533575_2718864974548823844_n.jpg?oh=2d609f015ac959754ec8a79b5059e596&oe=566CF0E4&__gda__=1449170699_3762a7f17e9e11463f4589ef3263bbb7"
+},
+ {
+  "name":"36 Corneil",
+  "id":"180571935289310",
+  "lat":"48.8789101",
+  "lng":"2.34553",
+  "address":"36 rue de rochechouart 75009 Paris",
+  "pins": ["baravin","lebonbon","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/p50x50/246860_223467577666412_5176532_n.jpg?oh=be87bfb73f1402dbc5036e94d4d8bf13&oe=5668E1E3&__gda__=1449746297_07f5e3279198a69b715423ae3e625679"
+},
+ {
+  "name":"3W Kafé",
+  "id":"1555149808054899",
+  "lat":"48.8565477491",
+  "lng":"2.35845439437",
+  "address":"8, rue des Ecouffes 75004 Paris",
+  "pins": ["bar2h","barclub","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfa1/v/t1.0-1/c2.0.50.50/p50x50/9782_1555149908054889_3401716021232045665_n.jpg?oh=0cd56848a3f914219c11c63ea1cbcfea&oe=566820F0"
+},
+ {
+  "name":"45 Tours",
+  "id":"547324945310592",
+  "lat":"48.850481955",
+  "lng":"2.38816734773",
+  "address":"45 rue de Montreuil 75011 Paris",
+  "pins": ["bar2h","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/p50x50/10392501_855263027850114_1490753807259188403_n.jpg?oh=f9ed53b1ba16c862c086e1fa5005f1f6&oe=5663B7A7&__gda__=1451057655_474ea7e562f3af3e7a9d5335f65ca885"
+},
+ {
+  "name":"49.3",
+  "id":"1565211617076623",
+  "lat":"48.8554879",
+  "lng":"2.38458126",
+  "address":"3 cité Phalsbourg 75011 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c6.0.50.50/p50x50/11745360_1593469797584138_3162410938728670903_n.jpg?oh=2784f5d9209d2ba63e795cc87be89ff1&oe=56AAF934&__gda__=1449038109_06149155dbb3603a7baa0ffc7f60f806"
+},
+ {
+  "name":"A Française",
+  "id":"682468041770401",
+  "lat":"48.8559932794",
+  "lng":"2.3861996042",
+  "address":"50 Rue Léon Frot 75011 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtp1/v/t1.0-1/p50x50/10931366_1040226025994599_3088412534307950774_n.jpg?oh=3a87fae21ce8462f744454137ca8a897&oe=5671CA1A&__gda__=1450859035_b1ad08f8c58b3fa273bdb36afc3a7f51"
+},
+ {
+  "name":"Acte 3",
+  "id":"164626546905131",
+  "lat":"48.8561211",
+  "lng":"2.3246801",
+  "address":"7 rue Paul Louis Courier 75007 Paris",
+  "pins": ["barcache","barcocktails","lebonbon","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xta1/v/t1.0-1/c10.0.50.50/p50x50/11949157_1021099394591171_1741035003124368368_n.jpg?oh=477b2a72b6edb8fb0cf134371b69903e&oe=5664C28F&__gda__=1450456507_b9fc20b7a86fc00a9fa1aa5ed7f287fa"
+},
+ {
+  "name":"Art Brut",
+  "id":"138663742847613",
+  "lat":"48.8621597",
+  "lng":"2.35112",
+  "address":"78, rue Quincampoix 75003 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Au Bon Coin",
+  "id":"121198391370299",
+  "lat":"48.8381954514",
+  "lng":"2.35167771395",
+  "address":"21 rue de Collégiale 75005 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c189.47.583.583/s50x50/487070_129255490564589_760176243_n.jpg?oh=9625e21045c27e3553e1c88e8ca7de78&oe=56A8E510&__gda__=1450336288_b08737e5e257c83126636ca2fc0def6d"
+},
+ {
+  "name":"Au Fond du Jardin",
+  "id":"264642577075109",
+  "lat":"48.8640518",
+  "lng":"2.40412",
+  "address":"39 rue Pelleport 75020 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/p50x50/10487349_264647360407964_8961980412332464627_n.jpg?oh=132baf3d19d5b0377dae0591bf9c199a&oe=56699B17"
+},
+ {
+  "name":"Au Lapin Agile",
+  "id":"149343501773888",
+  "lat":"48.8887215",
+  "lng":"2.3399301",
+  "address":"22 Rue des Saules 75018 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c205.44.549.549/s50x50/377495_291665597541677_2137915214_n.jpg?oh=3757105cf69e745f2ccc3766c3b3dc1c&oe=5668E3A9&__gda__=1449838731_598712786a5c22c3158f57aa8b620e3f"
+},
+ {
+  "name":"Au Magique",
+  "id":"152505951446936",
+  "lat":"48.833149",
+  "lng":"2.31581",
+  "address":"42 Rue Gergovie 75014 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/y5/r/j258ei8TIHu.png"
+},
+ {
+  "name":"Au Rendez-vous des Amis",
+  "id":"141341062585480",
+  "lat":"48.8454819",
+  "lng":"2.2972",
+  "address":"135 Rue du Théâtre 75015 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Au Trinquet",
+  "id":"318713414939412",
+  "lat":"48.8373272537",
+  "lng":"2.26449865506",
+  "address":"8 Quai Saint-Exupéry 75016 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtp1/v/t1.0-1/p50x50/11329742_676275205849896_1417293099142168406_n.jpg?oh=ad0e309f61c925bd1397f46aa5dcefce&oe=565DAB2C&__gda__=1449176555_8a933ecfe29a044186faf7b0daf122d2"
+},
+ {
+  "name":"Autour de Midi... et Minuit",
+  "id":"158920794171529",
+  "lat":"48.8846743991",
+  "lng":"2.33352751363",
+  "address":"11, Rue Lepic (Montmartre) 75018 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p50x50/1545210_10153097143196515_1099895143_n.jpg?oh=05ca5cdf02c6feef515e1697051248d8&oe=566EFA7D&__gda__=1448969951_021b7d5b5e476eb892076793e3435101"
+},
+ {
+  "name":"Aux Deux Cygnes",
+  "id":"712820378735630",
+  "lat":"48.8555107",
+  "lng":"2.3754001",
+  "address":"36, rue Keller 75011 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xat1/v/t1.0-1/p50x50/10301186_797759523575048_8373646595437522680_n.jpg?oh=a113893de91f4e5ec53eee114f5d882e&oe=5669927E&__gda__=1449275962_537321c686e03636fadacc4875f5b4cd"
+},
+ {
+  "name":"Aux Folies",
+  "id":"215507145246301",
+  "lat":"48.8724548388",
+  "lng":"2.377991746",
+  "address":"8 rue de Belleville 75020 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xap1/v/t1.0-1/p50x50/10671367_10205831137878911_3222157185166989867_n.jpg?oh=f2ccb25fc09abe0c3a3cf3a087885878&oe=56703EF5"
+},
+ {
+  "name":"Ballon FC",
+  "id":"633773523382246",
+  "lat":"48.8710323115",
+  "lng":"2.35223394342",
+  "address":"17 rue Mazagran 75010 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c0.0.50.50/p50x50/10929165_753938631365734_899243682746433963_n.jpg?oh=472459c4290711451d0377ff895a1e10&oe=567627DF&__gda__=1450479223_896a52b0920936f2bced86369d75e9ef"
+},
+ {
+  "name":"Barbershop",
+  "id":"77378465813",
+  "lat":"48.8645401",
+  "lng":"2.3775699",
+  "address":"68, avenue de la République 75011 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/p50x50/11855730_10153009827825814_7761817403646238243_n.jpg?oh=0c60c465fd80151bfde50a41cc850328&oe=5666518B"
+},
+ {
+  "name":"Bear's Den",
+  "id":"306571042732756",
+  "lat":"48.8591194",
+  "lng":"2.3500099",
+  "address":"6, rue des Lombards 75004 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xft1/v/t1.0-1/c1.0.50.50/p50x50/1908151_927871457269375_5011364612947007806_n.jpg?oh=d1cc38a7ad620a01b60cee14936763ec&oe=5679299B"
+},
+ {
+  "name":"Belette qui tète",
+  "id":"85791305680",
+  "lat":"48.8359795",
+  "lng":"2.3499701",
+  "address":"17 boulevard Arago 75013 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p50x50/10398551_85792110680_5537271_n.jpg?oh=a942e411074777579684430883ee8b04&oe=5674CCD2&__gda__=1450829286_6f3c2a67b8e56d97fb0e67c4bf6daf58"
+},
+ {
+  "name":"Bistrot des Dames",
+  "id":"156349361056313",
+  "lat":"48.8850403",
+  "lng":"2.3250501",
+  "address":"18 Rue des Dames 75017 Paris",
+  "pins": ["barcache","lebonbon","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c1.0.50.50/p50x50/10599404_876988152325760_108830456215086870_n.jpg?oh=c7d95dd3e0b4e0d98e514cb8ff5f1193&oe=567508BA&__gda__=1454075791_ce0d5d708d3b81d1db707e4ac947d029"
+},
+ {
+  "name":"Blue Club",
+  "id":"562202757149088",
+  "lat":"48.8866386",
+  "lng":"2.3463399",
+  "address":"rue muller 75018 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/p50x50/1013272_10151791587988843_1415533166_n.jpg?oh=8356292afcc4f722b6a9e6f8a01614c2&oe=5677AB64"
+},
+ {
+  "name":"Bombardier",
+  "id":"128800297155291",
+  "lat":"48.8466311584",
+  "lng":"2.3474560812",
+  "address":"2, place du Panthéon 75005 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xft1/v/t1.0-1/p50x50/11124838_829551227080191_990715968555917584_n.jpg?oh=328bafffe3ce5a8e2c189da3da3fe222&oe=56724BC0&__gda__=1449487132_36ecbeaa6edd6553ad9f92d54efd66a7"
+},
+ {
+  "name":"Bonnie and Clyde",
+  "id":"1526274110924511",
+  "lat":"48.8544502",
+  "lng":"2.3312099",
+  "address":"184 boulevard saint germain 74006 Paris",
+  "pins": ["bar2h","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xft1/v/t1.0-1/c14.0.50.50/p50x50/10405529_1536581056560483_2939312102195094562_n.jpg?oh=87b6cf258a4231316e878f8e3c28f138&oe=567989D4&__gda__=1449688244_dbcf467cce1dd4151f146d907e1e42b1"
+},
+ {
+  "name":"Bottle Shop",
+  "id":"219349558188826",
+  "lat":"48.8511696",
+  "lng":"2.3785501",
+  "address":"5, rue Trousseau 75011 Paris",
+  "pins": ["barabieres","barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c12.12.155.155/s50x50/1743501_228632173927231_1456018581_n.jpg?oh=39473c275abf787484b5e6e4ec498ffe&oe=5670A7C7&__gda__=1449379813_b4fed496af35274f8e077f153149e28a"
+},
+ {
+  "name":"Brébant",
+  "id":"163286470406578",
+  "lat":"48.8715782",
+  "lng":"2.3435299",
+  "address":"32 Boulevard Poissonnière 75009 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfa1/v/t1.0-1/p50x50/270287_163286717073220_6072539_n.jpg?oh=5260284013db46565d18e0c04e19d8ed&oe=567C43FB"
+},
+ {
+  "name":"Bric à Brac",
+  "id":"816018621838821",
+  "lat":"48.866086005",
+  "lng":"2.37879042",
+  "address":"108 rue Oberkampf 75011 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xtp1/v/t1.0-1/c2.7.50.50/p57x57/10891423_818552794918737_1064136918373931531_n.jpg?oh=3364facee3f3a927b8736901df25508e&oe=5667677F"
+},
+ {
+  "name":"Café Babel",
+  "id":"1410450555887388",
+  "lat":"48.8650856",
+  "lng":"2.3845649",
+  "address":"109, boulevard de Ménilmontant 75011 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xft1/v/t1.0-1/c8.0.50.50/p50x50/15883_1555549541377488_5740349690467022599_n.jpg?oh=b50ebd681b521c694bc6acf7a83cc475&oe=567D5EB4&__gda__=1449439525_50c5a9919810592510159549a9648d0a"
+},
+ {
+  "name":"Café Charbon",
+  "id":"418951328208566",
+  "lat":"48.8658295",
+  "lng":"2.3778",
+  "address":"109 rue Oberkampf 75011 Paris",
+  "pins": ["bar2h","barclub","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/p50x50/11855734_605077352929295_2093247455327214982_n.jpg?oh=00d9e13c8d624fdc1c9456ef9cd47f15&oe=56AB9DEB&__gda__=1448934748_94942736b57c29f2cf118e28eec534ea"
+},
+ {
+  "name":"Café Charlot",
+  "id":"247891398557979",
+  "lat":"48.8630486",
+  "lng":"2.3624499",
+  "address":"38 Rue de Bretagne 75003 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/p50x50/261446_247891961891256_593463_n.jpg?oh=a3108144d121604996c722169679dd7a&oe=5669865D"
+},
+ {
+  "name":"Café Chéri(e)",
+  "id":"1421964738108148",
+  "lat":"48.8740997",
+  "lng":"2.3752401",
+  "address":"44 Boulevard de la Villette 75020 Paris",
+  "pins": ["barclub","lebonbon","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p50x50/19202_1421964804774808_7050143094071348655_n.jpg?oh=63e2adf2fd8761dd7f6ae97e5c4fa6ab&oe=5669AA9F&__gda__=1449242632_41df84a3e85e68f93438e9b3e45b6926"
+},
+ {
+  "name":"Café Cox",
+  "id":"133301739503",
+  "lat":"48.8582611",
+  "lng":"2.3548801",
+  "address":"15 rue des archives 75004 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpt1/v/t1.0-1/p50x50/11206043_10153403826359504_818564366864818440_n.jpg?oh=7680ad7851d3fa955157dc3953baa5b8&oe=56A894A4&__gda__=1453880426_0d6160adde9ac4a313ddc932fbe79a23"
+},
+ {
+  "name":"Café des Anges",
+  "id":"152173031508851",
+  "lat":"48.8554382",
+  "lng":"2.3744199",
+  "address":"66 Rue de la Roquette 75011 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c0.0.50.50/p50x50/11079672_854736327919181_1423571805591686544_n.jpg?oh=57aec7de9bfdc95bce2cbac05924c66d&oe=56A7878A&__gda__=1449961433_f42044724ce6ee62f72171ac408b6fc1"
+},
+ {
+  "name":"Café des Sports",
+  "id":"154278411261977",
+  "lat":"48.8738594",
+  "lng":"2.3311601",
+  "address":"9 Rue de Mogador 75009 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Café la Cigale",
+  "id":"106717262725889",
+  "lat":"48.8823013",
+  "lng":"2.3401501",
+  "address":"120 boulevard Rochechouart 75018 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-ash2/v/t1.0-1/c72.1.213.213/s50x50/270102_175343269196621_101076_n.jpg?oh=89cdbb56fbadf4a54fa54501ae8aaed1&oe=56767F76"
+},
+ {
+  "name":"Café Marly",
+  "id":"160912130602455",
+  "lat":"48.8614600891",
+  "lng":"2.3355260815",
+  "address":"93 rue de Rivoli 75001 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c59.33.416.416/s50x50/16627_562848687075462_1839244394_n.png?oh=3dc73a827623f0742e9fd1ed55f82ff0&oe=56ABE72A&__gda__=1450907708_0a631752b485d8f23777445e3b976f52"
+},
+ {
+  "name":"Café-théâtre Popuair",
+  "id":"1570031433244859",
+  "lat":"48.8703000237",
+  "lng":"2.38910980875",
+  "address":"36 rue HENRI CHEVREAU 75020 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p50x50/1514584_1618433948404607_2992162555321052950_n.jpg?oh=220e4aa0d69e81bfb7226d8041d681ef&oe=566FC953&__gda__=1449456120_6acd070bf421115dd8030474c830c759"
+},
+ {
+  "name":"Cantine Fabien",
+  "id":"416711611818324",
+  "lat":"48.8777199",
+  "lng":"2.3697",
+  "address":"5 place du Colonel Fabien 75010 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c0.0.50.50/p50x50/11351183_459185977570887_2915359189318210806_n.jpg?oh=bfb33f0a207ed675637bc5b87c054341&oe=5676169C&__gda__=1449399736_521a5bb5d571875cf922532be7703dea"
+},
+ {
+  "name":"Cave à Michel",
+  "id":"1463172033946713",
+  "lat":"48.8743286",
+  "lng":"2.3728099",
+  "address":"36 Rue Sainte-Marthe 75010 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p50x50/10422411_1600675553529693_5534874157526929028_n.jpg?oh=3f61eff55d2d76d6577fe1d0085bd3f5&oe=56A9D4A6&__gda__=1449281433_e3c8b5d1821020dadb9e01cfec97598a"
+},
+ {
+  "name":"Cave de Belleville",
+  "id":"439916779490473",
+  "lat":"48.8731804",
+  "lng":"2.3810899",
+  "address":"51 rue de Belleville 75019 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/p50x50/11071610_474848539330630_3248442680850402443_n.jpg?oh=13166f17a6ade7e8f76549c0712db05b&oe=567C7E07"
+},
+ {
+  "name":"Cave de Entracte",
+  "id":"116149675392721",
+  "lat":"48.8707886",
+  "lng":"2.35676",
+  "address":"50 rue du Faubourg Saint-Martin  75010 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xtp1/v/t1.0-1/p50x50/11694848_117061501968205_779122665507136618_n.jpg?oh=58baef46b9fa1bdeae14406d3498230a&oe=567167EA"
+},
+ {
+  "name":"Cave Marcadet",
+  "id":"284083121696707",
+  "lat":"48.8913116",
+  "lng":"2.3379099",
+  "address":"157 rue Marcadet 75018 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/c171.49.618.618/s50x50/603062_335521863219499_1400140773_n.jpg?oh=63e73201d7bf48a17eee2281cb77d8fd&oe=566A5A02"
+},
+ {
+  "name":"Caveau de la Huchette",
+  "id":"499296060181722",
+  "lat":"48.8527777778",
+  "lng":"2.34638888889",
+  "address":"5 rue de la Huchette 75005 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"-",
+  "picture":"https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDhFlgS5ZrMvudT&w=50&h=50&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fbe%2FLe_Caveau_de_la_Huchette.jpg%2F720px-Le_Caveau_de_la_Huchette.jpg&crop&fallback=hub_likes&prefix=q"
+},
+ {
+  "name":"Caveau des Légendes",
+  "id":"193049070727890",
+  "lat":"48.8550987",
+  "lng":"2.33529",
+  "address":"22 rue Jacob 75006 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c8.0.50.50/p50x50/1378568_918267158206074_6408633299068815004_n.jpg?oh=9eb2028807dacdd2269a3c70cee9c2c7&oe=5678BF95&__gda__=1450667409_5e1f2bb46cd688ab7b75bab631f9090e"
+},
+ {
+  "name":"Cavern Club",
+  "id":"293655230673367",
+  "lat":"48.8551788",
+  "lng":"2.3398299",
+  "address":"21 rue Dauphine 75006 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/c10.0.50.50/p50x50/10703777_799240286781523_4867689140025342421_n.png?oh=61ef00766bbe5769f289228c46b576a4&oe=567AF3C3"
+},
+ {
+  "name":"Chai d'Adrien",
+  "id":"570791839657544",
+  "lat":"48.8661746566",
+  "lng":"2.36486977162",
+  "address":"39 boulevard du temple 75003 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/p50x50/1464730_570792206324174_1373859444_n.jpg?oh=e3befc141a02ec18e4782edcba50bdce&oe=565FF67F&__gda__=1449791243_f2d6096629c896c7bd045e88ea2bc1f9"
+},
+ {
+  "name":"Champmeslé",
+  "id":"519843164716620",
+  "lat":"48.8671608",
+  "lng":"2.3368101",
+  "address":"4 rue Chabanais 75002 75002 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Chapeau Melon",
+  "id":"171896426311734",
+  "lat":"48.8736687",
+  "lng":"2.3828599",
+  "address":"92 rue Rebeval 75019 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/c171.49.618.618/s50x50/5954_171902302977813_1436074556_n.jpg?oh=c7522f34213aa9942cef0b204aeb892e&oe=565FEDFB&__gda__=1449681047_47da1c2dda920311faa2fcb76c2514f8"
+},
+ {
+  "name":"Chapelle des Lombards",
+  "id":"158644950823272",
+  "lat":"48.8538208",
+  "lng":"2.37254",
+  "address":"19 rue de Lappe 75011 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/p50x50/10956268_904988566198689_8422019265590119930_n.jpg?oh=eb62926b4713a686fbdae264081098ff&oe=56702643&__gda__=1449613093_d5726f8f5663f2e1c6e74d357344df84"
+},
+ {
+  "name":"Charlie",
+  "id":"505168586272765",
+  "lat":"48.8502312",
+  "lng":"2.37814",
+  "address":"29 Rue de Cotte 75012 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c3.0.50.50/p50x50/10731154_603811583075131_1266858042334584895_n.jpg?oh=ddaba6bc01fba3e82b33370403f51c65&oe=567455D7&__gda__=1450278891_e819b7a9af242eaac700683b2fdab14f"
+},
+ {
+  "name":"Charlie Birdy - Commerce",
+  "id":"140982152764034",
+  "lat":"48.8433113",
+  "lng":"2.2934401",
+  "address":"Charlie Birdy 1 place Etienne Pernet, 75015 Paris M° Commerce 01 48 28 06 06 75015 Paris",
+  "pins": ["bar2h","barclub","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/p50x50/1043973_147751898753726_1223431958_n.jpg?oh=2ef7fa5cb22d0da3dc3e7032547c01d1&oe=566F7C39&__gda__=1450870605_1d460a5db7cd134c68ba4546103fe3a5"
+},
+ {
+  "name":"Chat Ivre",
+  "id":"356840404490011",
+  "lat":"48.8550415",
+  "lng":"2.3749599",
+  "address":"22 rue des taillandiers 75011 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/c0.0.50.50/p50x50/10425420_419386488235402_5129576460717853664_n.jpg?oh=d85a498691d4f4a4026fa69d97d1a976&oe=5672F99F"
+},
+ {
+  "name":"Chez Adel",
+  "id":"225293510886250",
+  "lat":"48.873539",
+  "lng":"2.3647699",
+  "address":"10 rue de la grange aux belles 75010 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-frc3/v/t1.0-1/c205.44.549.549/s50x50/578885_295236193891981_177896000_n.jpg?oh=37c037ce88bec79be77affc9cadf6050&oe=566F2539"
+},
+ {
+  "name":"Chez Bouboule",
+  "id":"777381835648552",
+  "lat":"48.8819224236",
+  "lng":"2.346633998",
+  "address":"0 AVENUE TRUDAINE 75009 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfa1/v/t1.0-1/c1.0.50.50/p50x50/10930081_802227076497361_5841134458502235436_n.png?oh=990d302a3ea3c13641620d104475fce4&oe=5675DCE8"
+},
+ {
+  "name":"Chez Carmen",
+  "id":"687560224624312",
+  "lat":"48.8712514484",
+  "lng":"2.34154247416",
+  "address":"Rue vivienne  75002 Paris",
+  "pins": ["bar2h","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/y5/r/j258ei8TIHu.png"
+},
+ {
+  "name":"Chez Marie",
+  "id":"378237585672575",
+  "lat":"48.8732432317",
+  "lng":"2.370719545",
+  "address":"219 Rue Saint Maur 75010 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c2.0.50.50/p50x50/1901366_378240195672314_3715225560447263304_n.png?oh=8312ec78dc007838c5480eebb6531997&oe=565DDD63&__gda__=1449889227_0416383170fb1ae36b6f6fd6f53932ef"
+},
+ {
+  "name":"Chez Rosette",
+  "id":"267460010105700",
+  "lat":"48.8722850028",
+  "lng":"2.34916759107",
+  "address":"40 rue d'Enghien 75010 Paris",
+  "pins": ["baravin","barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c6.0.50.50/p50x50/10344781_267461390105562_7115093639767902838_n.jpg?oh=23dde2b721cbc76d4eb0f1aebc1e8a15&oe=56AB02D1&__gda__=1449573873_67100c60bdacd8c7207f24530eb8e52f"
+},
+ {
+  "name":"Clin's 20",
+  "id":"296859200358881",
+  "lat":"48.87286",
+  "lng":"2.3960299",
+  "address":"49 rue Pixérécourt 75020 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p50x50/1476057_667424856635645_446969033_n.jpg?oh=9486eb7c0cf593923e5d38fb29140c4b&oe=5674ADC1&__gda__=1449330762_d376dcb25c65d2c730a2471e1cf15dfd"
+},
+ {
+  "name":"Club 18",
+  "id":"468134446646163",
+  "lat":"48.8662392593",
+  "lng":"2.3381763915",
+  "address":"18 rue de beaujolais 75001 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c5.0.50.50/p50x50/1896833_468135213312753_1519045623_n.jpg?oh=9bc6ce5dbd7f44fb31d13e1a5fca2b9e&oe=56A77F8C&__gda__=1449215309_7b91b71718783299fe74dde8568ca0e0"
+},
+ {
+  "name":"Coeur Fou",
+  "id":"332939823428098",
+  "lat":"48.8659706",
+  "lng":"2.34448",
+  "address":"55 Rue Montmartre 75002 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfa1/v/t1.0-1/p50x50/10486057_691738037548273_792314666734825839_n.jpg?oh=d55c9828a58e04ada2a364bc482f1f14&oe=56718949"
+},
+ {
+  "name":"Comestibles & Marchand de Vins",
+  "id":"200426463448396",
+  "lat":"48.8913918",
+  "lng":"2.34354",
+  "address":"65 Rue Du Mont Cenis 75018 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xap1/v/t1.0-1/c0.3.414.414/s50x50/72663_235133076644401_1649456371_n.jpg?oh=ef7a37cc4a3584d1bee2509351bda6a6&oe=5660B3C2"
+},
+ {
+  "name":"Connolly's Corner",
+  "id":"197229523633334",
+  "lat":"48.8410683",
+  "lng":"2.3509099",
+  "address":"12 rue de Mirbel 75005 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/p50x50/11070417_10153942049754881_715548789553791820_n.jpg?oh=689a8c22bd09293be76af5b260e6ccab&oe=567AE692"
+},
+ {
+  "name":"Cork & Cavan",
+  "id":"159732814047116",
+  "lat":"48.8713417",
+  "lng":"2.3657899",
+  "address":"70 Quai de Jemmapes 75010 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Dame de Canton",
+  "id":"130568203690029",
+  "lat":"48.83464304",
+  "lng":"2.37770931564",
+  "address":"PORT DE LA GARE 75013 Paris",
+  "pins": ["bar2h","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p50x50/10625068_698430056903838_95105077054406185_n.jpg?oh=36012e37290e42e31ea453be2723af3f&oe=56701D37&__gda__=1450275232_760f210af83527d0366208dec6fe39d2"
+},
+ {
+  "name":"Day Off",
+  "id":"131546416917392",
+  "lat":"48.8553615667",
+  "lng":"2.3036886",
+  "address":"2 Avenue Emile Acollas 75007 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/c112.12.153.153/s50x50/189699_131546573584043_7629432_n.jpg?oh=5c0399dc44a31ffc8fecc20e918e06bc&oe=5674C416"
+},
+ {
+  "name":"Dégustation",
+  "id":"523967137672685",
+  "lat":"48.8869896",
+  "lng":"2.33814",
+  "address":"93 rue Lepic 75018 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-prn2/v/t1.0-1/c13.0.50.50/p50x50/10703835_671669956235735_3628653210749429206_n.jpg?oh=cfa4ccd9d254899b9a28213a35d2748a&oe=565ECA9B"
+},
+ {
+  "name":"Demain c'est loin",
+  "id":"444545288937150",
+  "lat":"48.8686295",
+  "lng":"2.3859999",
+  "address":"9 rue Julien Lacroix 75020 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xta1/v/t1.0-1/p50x50/10636250_791639184227757_7847334480402097914_n.jpg?oh=cfe51e1fde16bbc2f6172c04be343997&oe=56701509&__gda__=1450989816_c9f7af3a32632b5bce391cba64f3a024"
+},
+ {
+  "name":"Dernier Bar Avant la Fin du Monde",
+  "id":"270617966366652",
+  "lat":"48.8581180039",
+  "lng":"2.34644726993",
+  "address":"19, avenue Victoria 75001 Paris",
+  "pins": ["barcocktails","lebonbon","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p50x50/10411973_646358715459240_4210437439845970819_n.png?oh=6f8a68e85128bac8bf318cd05bf5cdac&oe=5665CA6F&__gda__=1453960644_807da051bc17f0da98cc89651e4ebed4"
+},
+ {
+  "name":"Des Bulles et des Ballons",
+  "id":"162935007055682",
+  "lat":"48.8537102",
+  "lng":"2.4235499",
+  "address":"57 Rue Robespierre 93100 Montreuil",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c38.38.480.480/s50x50/527269_435040953178418_55634876_n.jpg?oh=4161eabac2118cd8c3cd81b5b35881d0&oe=56724EFB&__gda__=1448972146_e3779559391c4be91d88bf0db1d35c5f"
+},
+ {
+  "name":"Disquaires",
+  "id":"36304204800",
+  "lat":"48.8538083448",
+  "lng":"2.37550777894",
+  "address":"4-6 rue des taillandiers 75011 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/p50x50/1901905_10152259612644801_678406703_n.jpg?oh=80fbcf2603c6dfb3c2124c8334f3b05d&oe=566BD21D&__gda__=1449376054_9b28b608970a49fdac85712d74f8aa3e"
+},
+ {
+  "name":"Divette de Montmartre",
+  "id":"162370170451837",
+  "lat":"48.8912888",
+  "lng":"2.3393199",
+  "address":"136 rue marcadet 75018 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-frc3/v/t1.0-1/c9.0.50.50/p50x50/1010921_10151841715204566_1880147517_n.jpg?oh=7b82e22bf6a69f76262ce295c9c6dc1f&oe=566C68A4"
+},
+ {
+  "name":"Dix Bar",
+  "id":"117058621661861",
+  "lat":"48.8673897",
+  "lng":"2.3652401",
+  "address":"10 Place de la République 75011 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c69.66.822.822/s50x50/1240093_640815495952835_815735264_n.png?oh=4b5794b8c8785d1c727ad4918c5937ac&oe=56778BC9&__gda__=1451010297_67c0cb59b8329b09534217deb9c302c7"
+},
+ {
+  "name":"Droguerie Moderne",
+  "id":"209094755799623",
+  "lat":"48.8670998",
+  "lng":"2.3749101",
+  "address":"61bis rue Jean Pierre Timbaud 75011 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Duc des Lombards",
+  "id":"261855240550998",
+  "lat":"48.8595763491",
+  "lng":"2.34876887972",
+  "address":"42 rue des Lombards / 21 Bld Sébastopol 75001 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p50x50/1964779_619265188143333_10883493_n.jpg?oh=ff7b5a28c09129a4271ad8dd05292b09&oe=56765B9B&__gda__=1449739475_b1728df94b6a744611492bda282a9989"
+},
+ {
+  "name":"El Tast",
+  "id":"1522181698068086",
+  "lat":"48.8937093628",
+  "lng":"2.3431861071",
+  "address":"70 Rue Duhesme 75018 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/p50x50/10438469_1522671138019142_1023294799735743818_n.jpg?oh=84ae865cb8282f56728dcd5e2f23cce0&oe=56AADB93"
+},
+ {
+  "name":"Entrée des Artistes",
+  "id":"225746787464340",
+  "lat":"48.881031",
+  "lng":"2.3373799",
+  "address":"30 rue Victor Massé 75009 Paris",
+  "pins": ["baravin","barcache","barcocktails","lebonbon","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c10.0.50.50/p50x50/10941853_841205435918469_1683494593356573083_n.jpg?oh=5aaeecebea892b29f8bfcbfcdbf812de&oe=56AB3E3F&__gda__=1450293008_8fd3f7dcfb01e2ec4b8db5d438a851ac"
+},
+ {
+  "name":"Feeling",
+  "id":"156945677972365",
+  "lat":"48.8569298",
+  "lng":"2.3412001",
+  "address":"Lieu tenu secret 75 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/c15.0.50.50/p50x50/11896249_157027174630882_1200959977760951022_n.jpg?oh=d40a32c514501c1bf1dec965940651d9&oe=5674BFEA"
+},
+ {
+  "name":"Flow",
+  "id":"114045228806426",
+  "lat":"48.8630809104",
+  "lng":"2.31391426163",
+  "address":"4, port des Invalides 75007 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-frc3/v/t1.0-1/c190.46.579.579/s50x50/600570_114045292139753_601379348_n.jpg?oh=eace4443472386cd550fffd7ce776577&oe=567725E6"
+},
+ {
+  "name":"Garde Robe",
+  "id":"233092390039861",
+  "lat":"48.8610382",
+  "lng":"2.3424001",
+  "address":"41, rue de l'arbre sec 75001 Paris",
+  "pins": ["baravin","lebonbon","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpt1/v/t1.0-1/p50x50/10421403_911412152207878_2181648549186679167_n.png?oh=40cad0200357b18e4fcac2a01d8592df&oe=566B50BE"
+},
+ {
+  "name":"Grand Bouillon",
+  "id":"1476644442551004",
+  "lat":"48.9146884965",
+  "lng":"2.38291132668",
+  "address":"2 ter rue du Moutier 93300 Aubervilliers",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xft1/v/t1.0-1/p50x50/10309194_1547906098758171_3799469825941783535_n.jpg?oh=c8cbdd9c63505f90427df44313d93f97&oe=565E3468&__gda__=1450166047_a2e178e8014c39039875f358324906ea"
+},
+ {
+  "name":"Green Goose",
+  "id":"224515764422038",
+  "lat":"48.8503637107",
+  "lng":"2.39062771432",
+  "address":"19 rue des Boulets, 75011 75011 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Ground Control",
+  "id":"644196098997516",
+  "lat":"48.8910408",
+  "lng":"2.3529601",
+  "address":"26 ter rue Ordener 75018 Paris",
+  "pins": ["barclub","lebonbon","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpt1/v/t1.0-1/p50x50/11156419_815280145222443_7282841609331765609_n.jpg?oh=42d7fb28496db599ee42ee909d4fb1f5&oe=56674B86"
+},
+ {
+  "name":"Guêpe",
+  "id":"428388220552808",
+  "lat":"48.8844843342",
+  "lng":"2.34121013488",
+  "address":"14 rue des Trois Frères 75018 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c44.44.549.549/s50x50/550643_428399310551699_1683475790_n.jpg?oh=804ef7794ab12f918765771b34df83c3&oe=5666FDF3&__gda__=1449470659_74d65a34cf666caa828374f3974fe34c"
+},
+ {
+  "name":"Gueuze",
+  "id":"288651131206719",
+  "lat":"48.8472753808",
+  "lng":"2.34141678367",
+  "address":"19 rue soufflot 75005 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c113.33.414.414/s50x50/429874_288654507873048_400083695_n.jpg?oh=48f65dc9d7f7359894ecf1b943f660ca&oe=56663606&__gda__=1449586998_b1c6f55ee3b0424c1af40ec98b52fa94"
+},
+ {
+  "name":"Harry's New York Bar",
+  "id":"148282981897528",
+  "lat":"48.8692589",
+  "lng":"2.3320999",
+  "address":"5 rue Daunou 75002 Paris",
+  "pins": ["barabieres","barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/p50x50/10888630_862473307145155_7333989508063501414_n.jpg?oh=9767bd6989e685495664da8dae3808e5&oe=56712F99&__gda__=1451163903_ef586ac9b42e6a9250dbc9eb8c589002"
+},
+ {
+  "name":"Hôtel Amour",
+  "id":"110646852328866",
+  "lat":"48.8796005",
+  "lng":"2.33939",
+  "address":"8 Rue de Navarin 75009 Paris",
+  "pins": ["barcache","barcocktails","lebonbon","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-frc3/v/t1.0-1/c27.18.227.227/s50x50/574642_428744790519069_559413736_n.png?oh=8cb616d05ae0101e99344a3523b5f9b5&oe=567303B1&__gda__=1450030443_15ca2ca46b04fb61244bc939d7256931"
+},
+ {
+  "name":"Houla Oups !",
+  "id":"127851653931896",
+  "lat":"48.8538399",
+  "lng":"2.38028",
+  "address":"4 Rue Basfroi 75011 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/y5/r/j258ei8TIHu.png"
+},
+ {
+  "name":"Isolé",
+  "id":"268355313374656",
+  "lat":"48.8817406",
+  "lng":"2.3374",
+  "address":"14 Rue Frochot 75009 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/p50x50/1549380_10204354135407374_1644789823296342200_n.jpg?oh=d9033323238cef36cde04dc07a359caa&oe=567D9105"
+},
+ {
+  "name":"Jazzcartoon",
+  "id":"149092115127013",
+  "lat":"48.8686218",
+  "lng":"2.3435299",
+  "address":"138 Rue Montmartre 75002 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/y5/r/j258ei8TIHu.png"
+},
+ {
+  "name":"Kiez Biergarten",
+  "id":"745766438802154",
+  "lat":"48.8935814",
+  "lng":"2.3333001",
+  "address":"24 rue Vauvenargues 75018 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c0.0.50.50/p50x50/10702100_814899098555554_7791320490096585652_n.png?oh=094c454fd4398ed3acc68fd20fe3151e&oe=565F7155&__gda__=1450881137_cac1955a9111f195f1b72c632df6e902"
+},
+ {
+  "name":"Klein Holland",
+  "id":"118136671537965",
+  "lat":"48.856369",
+  "lng":"2.35796",
+  "address":"36 rue du roi de Sicile 75004 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/p50x50/523212_487877171230578_1789008556_n.jpg?oh=dc00dc272aac7f4138e8f58b77d65e19&oe=565E468B&__gda__=1448970419_eebe7a5c3dfc7ba61558909fdd093ce3"
+},
+ {
+  "name":"Klub",
+  "id":"147612641981320",
+  "lat":"48.8591194",
+  "lng":"2.3478401",
+  "address":"14, rue St Denis 75001 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/p50x50/11200573_843364462406131_848176330464125678_n.jpg?oh=688bd47ed6c492c9489c156bfe0dd03e&oe=5667686D"
+},
+ {
+  "name":"Krash",
+  "id":"199825126712106",
+  "lat":"48.86016",
+  "lng":"2.34048",
+  "address":"paris 75001 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/c0.0.50.50/p50x50/1623633_744953188865961_264620074_n.jpg?oh=05728a13286168adb5e267d865005e02&oe=566DA615"
+},
+ {
+  "name":"KriZa bar",
+  "id":"40611736609",
+  "lat":"48.8395077509",
+  "lng":"2.32266098431",
+  "address":"9, rue Vandamme 75014 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/p50x50/11083657_10152668356061610_2041822328115971619_n.jpg?oh=78dc6ddda951e83e47fc80762059cbbd&oe=5662742A&__gda__=1451146646_51e537113c954b09bafcca4a43087ae8"
+},
+ {
+  "name":"Lavomatic",
+  "id":"1583887058548400",
+  "lat":"48.8684387",
+  "lng":"2.3617899",
+  "address":"30 Rue René Boulanger 75010 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xap1/v/t1.0-1/p50x50/19098_1584270248510081_7570379029598055740_n.jpg?oh=e31469c9e562c7716774cddc62892116&oe=56690F20"
+},
+ {
+  "name":"Lizard Lounge",
+  "id":"164597706888579",
+  "lat":"48.857399",
+  "lng":"2.3562701",
+  "address":"18 rue du Bourg Tibourg 75004 Paris",
+  "pins": ["barabieres","barclub","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xat1/v/t1.0-1/p50x50/10403411_10155180646490647_2086590444541184882_n.jpg?oh=83fb35a888d8b7d7bc0180f65157e6bc&oe=56AA35ED&__gda__=1449744842_b7e549469548299a81c9fa0a581c795d"
+},
+ {
+  "name":"Lucien la Chance",
+  "id":"189498964574232",
+  "lat":"48.8855095",
+  "lng":"2.3257699",
+  "address":"8 rue des Dames 75017 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpt1/v/t1.0-1/p50x50/1459078_190055087851953_806045718_n.jpg?oh=70488309d2901c7a7bbde15cc472cc6f&oe=566DD4B1&__gda__=1449839507_3abe791d45704c705861ee38a6923142"
+},
+ {
+  "name":"Magellan",
+  "id":"120334464687043",
+  "lat":"48.8834",
+  "lng":"2.29247",
+  "address":"17 -19 Rue Jean Baptiste Dumas 75017 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/p50x50/1235236_577887878931697_1250347328_n.jpg?oh=a8ea2187175bb3e1f00e98f6c38a57be&oe=567C1AE2&__gda__=1450590102_29a15b3fca55133cfaeeabfa5281a2fa"
+},
+ {
+  "name":"Maison",
+  "id":"196917477144973",
+  "lat":"48.8534889",
+  "lng":"2.3378799",
+  "address":"6 rue Grégoire de Tours 75006 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpf1/v/l/t1.0-1/c17.0.50.50/p50x50/10377369_377756952394357_3590673477562005026_n.jpg?oh=45f034d1e98f936162df1911e1001aad&oe=56A88187"
+},
+ {
+  "name":"Mama Lova",
+  "id":"883643894980687",
+  "lat":"48.8923149969",
+  "lng":"2.33681367344",
+  "address":"184 Rue Marcadet 75018 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xta1/v/t1.0-1/p50x50/11703050_1017892121555863_5285361385443690493_n.jpg?oh=e628fc14e2a4bd192b0ac5c4e8597e2c&oe=566182C4"
+},
+ {
+  "name":"Mange Disc",
+  "id":"102557926519195",
+  "lat":"48.8658409",
+  "lng":"2.44661",
+  "address":"50 rue de Romainville 93100 Montreuil",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c0.10.50.50/p50x50/310811_102558306519157_278842689_n.jpg?oh=f56216711d75cd1f0a9a924a6dba629c&oe=5664C68B&__gda__=1454095835_09f5beb225af4516b429ead1303af607"
+},
+ {
+  "name":"Mezzanine de Alcazar",
+  "id":"167106703330102",
+  "lat":"48.8545189",
+  "lng":"2.33798",
+  "address":"62 rue Mazarine 75006 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xap1/v/t1.0-1/c13.0.50.50/p50x50/1234230_511475492264377_1434789722_n.jpg?oh=9007195d32b027abd31f7c133079ce9a&oe=56A84EC5"
+},
+ {
+  "name":"Mo'Town",
+  "id":"359691924118277",
+  "lat":"48.8656883",
+  "lng":"2.3847001",
+  "address":"116 boulevard de Menilmontant 75020 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xap1/v/t1.0-1/c99.48.597.597/s50x50/550348_367726296648173_890524045_n.png?oh=089c7a29505fd3ee54b903ce5549f990&oe=566D83D4"
+},
+ {
+  "name":"Moka Goncourt",
+  "id":"1498142413758645",
+  "lat":"48.8701591",
+  "lng":"2.3713",
+  "address":"75 rue du faubourg du temple 75010 Paris",
+  "pins": ["bar2h","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Niçois",
+  "id":"1400112543554555",
+  "lat":"48.8620491",
+  "lng":"2.3780501",
+  "address":"7, rue Lacharrière 75011 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpt1/v/t1.0-1/c16.16.689.689/s50x50/11216710_1679800585585748_7801532417905681711_n.jpg?oh=f52de0dd7e99d776c705e27259704701&oe=56A82476"
+},
+ {
+  "name":"O’ Paris",
+  "id":"230745596968678",
+  "lat":"48.8715934337",
+  "lng":"2.3858907403",
+  "address":"1 rue des envierges 75020 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p50x50/11659252_929044623805435_4884574968830142499_n.jpg?oh=2bbad873c2955a68d35d0d5b43be06e0&oe=5679F444&__gda__=1450897135_4a8c1b2c0a5ae289b1d9edd77f54d74a"
+},
+ {
+  "name":"Octopussy",
+  "id":"161913670647176",
+  "lat":"48.8935585",
+  "lng":"2.3252399",
+  "address":"22 rue de la Jonquière 75017 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-frc3/v/t1.0-1/p50x50/1378005_211182232386986_1868517120_n.jpg?oh=9fced0625cd0195c3690b820ab9c8679&oe=567F7D02&__gda__=1449728378_7e2cc235e4bfaed583da1c75125ae085"
+},
+ {
+  "name":"Open Café",
+  "id":"156069941082276",
+  "lat":"48.8583908",
+  "lng":"2.35501",
+  "address":"17 rue des Archives 75004 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c17.17.431.431/s50x50/10991432_871123509576912_4539760366344689190_n.png?oh=e07a962fbe6f071b1394e78dbd787b49&oe=56636C88&__gda__=1449955615_94c4c3dbf583705727f3921fdece3229"
+},
+ {
+  "name":"Orillon Bar",
+  "id":"341368692625875",
+  "lat":"48.8702507",
+  "lng":"2.3763101",
+  "address":"35 rue de l'Orillon 75011 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/c0.0.50.50/p50x50/11014668_788275417935198_7536282728938452536_n.jpg?oh=119d5d6103f885047783f77b4cc3cc66&oe=56701595"
+},
+ {
+  "name":"Paloma",
+  "id":"192434034133809",
+  "lat":"48.8671799",
+  "lng":"2.3757401",
+  "address":"74 rue Jean-Pierre Timbaud 75011 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c8.0.50.50/p50x50/10369106_783433615033845_645817571958891417_n.png?oh=48c5ffad0d32566de6076f67fad5da68&oe=56A8C593&__gda__=1450932134_fa6e3bc40a7cbe069881fbc4c28ee175"
+},
+ {
+  "name":"Paname Brewing Company",
+  "id":"552467018217562",
+  "lat":"48.8877110056",
+  "lng":"2.37864732742",
+  "address":"41 Quai de la Loire 75019 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/c12.0.50.50/p50x50/16230_601663373297926_6733912258901884814_n.jpg?oh=01a9b7bd5336619dcefa442343c35960&oe=567CD8C5&__gda__=1449007735_f1431b076665122a539a4100f9cef4a6"
+},
+ {
+  "name":"perle",
+  "id":"197193187100994",
+  "lat":"48.8597717",
+  "lng":"2.3605599",
+  "address":"78 rue Vieille du Temple 75003 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/c0.0.50.50/p50x50/1536659_286085444878434_1870497235_n.jpg?oh=ab3ff319db7c5fbd5f1e6f9fd08d5584&oe=566137BA&__gda__=1450361221_f47e8d58ec5be3b1c156c314dbb1f9c2"
+},
+ {
+  "name":"Persifleur",
+  "id":"379588335556340",
+  "lat":"48.8851919871",
+  "lng":"2.33735620719",
+  "address":"3 bis rue Durantin  75018 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c10.0.50.50/p50x50/10996004_387770121404828_2822737619191449891_n.jpg?oh=d1bf8545b4e35b43ec68aecfe816dfb3&oe=56747435&__gda__=1453871388_936e567fcef0ed17ccecc0cf538a7f51"
+},
+ {
+  "name":"Pétanque",
+  "id":"410857165615882",
+  "lat":"48.86196",
+  "lng":"2.33594",
+  "address":"Parvis de l'Hôtel de Ville 75001 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c44.44.552.552/s50x50/542150_421877261180539_901470366_n.jpg?oh=bae45c30da640f7b90d3b9a9690e764c&oe=565EE562&__gda__=1453848622_9eb2ed8c17d48859d2e779944f38fc39"
+},
+ {
+  "name":"Petit Bain",
+  "id":"128530333890145",
+  "lat":"48.8353969784",
+  "lng":"2.37678250673",
+  "address":"Petit Bain, 7 port de la Gare, 75013 Paris 75013 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/c150.3.195.195/s50x50/10156069_616106485132525_1540781469_n.jpg?oh=32a6f276f1b670d47f5c68911357e12e&oe=565EEB4C&__gda__=1449525279_2dfd8d8de2f5cb6aff5c904845614fe0"
+},
+ {
+  "name":"Petit Garage",
+  "id":"158343570856581",
+  "lat":"48.8672218",
+  "lng":"2.37536",
+  "address":"63 rue Jean-Pierre Timbaud 75011 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Petite Halle",
+  "id":"1436713206585466",
+  "lat":"48.8907834887",
+  "lng":"2.3906833334",
+  "address":"211 avenue Jean Jaures  75019  Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p50x50/10382821_1445124225744364_7486529391813827083_n.jpg?oh=17dc40ee141d344b404392639cac63c9&oe=567311C0&__gda__=1451095727_ef49c676abc32be008e015935d94e124"
+},
+ {
+  "name":"Playtime",
+  "id":"148023305217796",
+  "lat":"48.8772697",
+  "lng":"2.3545001",
+  "address":"5, rue des Petits Hôtels 75010 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c0.15.50.50/p50x50/45780_148023881884405_8370447_n.jpg?oh=cd505af07467354687c39b491f4d70b7&oe=566F7B32&__gda__=1450071958_3ca2affb05aeceec3e753c30d0ad83ef"
+},
+ {
+  "name":"Quatre Fois Cinq",
+  "id":"103630766461317",
+  "lat":"48.8569908",
+  "lng":"2.3782001",
+  "address":"83, rue de la Roquette 75011 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/v/t1.0-1/c33.33.414.414/s50x50/581612_103632226461171_805460285_n.jpg?oh=40e1e568e7857a5b727aa7f05f9b89ef&oe=5672AECA&__gda__=1449766446_1e21413f2029aa3ded56b6fba4215528"
+},
+ {
+  "name":"Quetzal",
+  "id":"112828519065993",
+  "lat":"48.8572311",
+  "lng":"2.3551099",
+  "address":"10 rue de la verrerie 75004 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpt1/v/t1.0-1/p50x50/11880497_112829192399259_8246310087647526030_n.jpg?oh=93dd1232e9b57dd81db646468f305c35&oe=5668BF39"
+},
+ {
+  "name":"Recyclerie",
+  "id":"130357863828214",
+  "lat":"48.8976517",
+  "lng":"2.3441701",
+  "address":"83 Boulevard Ornano 75018 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p50x50/486866_130360607161273_162325378_n.jpg?oh=26d5e73287ef64cd1a566c1ae708a528&oe=567BC85A&__gda__=1449735022_605b5830a480c56a578643362d93a6d8"
+},
+ {
+  "name":"Redd",
+  "id":"859458040742663",
+  "lat":"48.866221229",
+  "lng":"2.34773279",
+  "address":"28 rue Saint Sauveur 75002 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xat1/v/t1.0-1/c13.0.50.50/p50x50/10930148_864708360217631_6578193275167989546_n.jpg?oh=c5a67a15fc98758b74fe9ff65d2aad11&oe=56696F23"
+},
+ {
+  "name":"Refuge",
+  "id":"328198177297539",
+  "lat":"48.8899803",
+  "lng":"2.3389299",
+  "address":"72 rue Lamarck 75018 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/c66.66.828.828/s50x50/734644_328603653923658_811887955_n.jpg?oh=1e639456e079bc4b3550f52e4870c2f5&oe=566A60F4&__gda__=1449832950_6721586c3c84aad865887b022db827ce"
+},
+ {
+  "name":"Renaissance",
+  "id":"122342931209241",
+  "lat":"48.8654785",
+  "lng":"2.3294699",
+  "address":"4 Rue du Mont Thabor 75001 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpt1/v/t1.0-1/p50x50/10568887_565837790193084_788957873677268837_n.jpg?oh=12e59d458b8578eaeb6fa374a00ea1c4&oe=56A9821E&__gda__=1450490947_9348e3e3aa01f4b84bb7568a7f7e5818"
+},
+ {
+  "name":"Rosemary",
+  "id":"789970911049940",
+  "lat":"48.8487330598",
+  "lng":"2.36537826098",
+  "address":"4 rue Crillon 75004 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/p50x50/11080946_807497499297281_8768427800216341062_n.jpg?oh=f0e2004dd54ecbfa801ffc3a18acf53f&oe=5673B872"
+},
+ {
+  "name":"Rotonde",
+  "id":"694168027294996",
+  "lat":"48.8423611111",
+  "lng":"2.32916666667",
+  "address":"105 boulevard du montparnasse 75006 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBSghdGqMqg5-KZ&w=50&h=50&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F92%2FLa_Rotonde_2.JPG%2F720px-La_Rotonde_2.JPG&crop&fallback=hub_likes&prefix=q"
+},
+ {
+  "name":"Rouquins",
+  "id":"381199525281745",
+  "lat":"48.8341484",
+  "lng":"2.32216",
+  "address":"146 rue du Château  75014 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfa1/v/t1.0-1/c170.50.621.621/s50x50/23349_429575750444122_672145882_n.jpg?oh=6100be7b9bdc89956c596646bae4ebd1&oe=567B3CCF"
+},
+ {
+  "name":"SANZ by Bizz'art",
+  "id":"373109796033427",
+  "lat":"48.8522491",
+  "lng":"2.3728399",
+  "address":"49 rue du Faubourg Saint Antoine 75011 Paris",
+  "pins": ["barclub","lebonbon","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xat1/v/t1.0-1/p50x50/10934089_928866463791088_944282824073901999_n.jpg?oh=43f48b8005c4214f6a7de060d46c07d8&oe=567637A7&__gda__=1454049484_ce952904a5cbfdf354f4df8e14b567a8"
+},
+ {
+  "name":"Sentier des Halles",
+  "id":"1469916879932146",
+  "lat":"48.86726",
+  "lng":"2.3455701",
+  "address":"50, rue d'Aboukir 75002 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p50x50/1521655_1472821492975018_843665896048511654_n.jpg?oh=e0daa66dbd6df0758b59ad6172ce5bf4&oe=567A63D9&__gda__=1450369147_9297a42c271ef823733ff412f2bd261b"
+},
+ {
+  "name":"Sof's bar",
+  "id":"118281381601052",
+  "lat":"48.86768",
+  "lng":"2.34116",
+  "address":"81 Rue Réaumur  75002 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/c7.0.50.50/p50x50/10517540_647669971995521_4744067702391464126_n.jpg?oh=3b922e98b07f2761ebab74e398cfaa07&oe=567A59A0"
+},
+ {
+  "name":"Soleil de la Butte",
+  "id":"295547923849422",
+  "lat":"48.8865089",
+  "lng":"2.34533",
+  "address":"32 rue Muller 75018 Paris",
+  "pins": ["bar2h","barclub","lebonbon","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/v/t1.0-1/p50x50/1378410_10151706657338173_423837368_n.jpg?oh=f9f947d626691f18c2123712f4b57d3b&oe=56AA7778&__gda__=1449751209_ace7d2a4cc20ac9b67ae5f18d12780bf"
+},
+ {
+  "name":"Stolly's",
+  "id":"147918018576076",
+  "lat":"48.8563919",
+  "lng":"2.3573301",
+  "address":"16, rue Cloche Percé 75004 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Studio",
+  "id":"1420030188306647",
+  "lat":"48.8505592",
+  "lng":"2.33445",
+  "address":"1 Place Saint Sulpice 75006 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xft1/v/t1.0-1/p50x50/11350481_1434589486850717_6511229526444695638_n.jpg?oh=2584a04534e9a5cb28d8ba51c440d5df&oe=5660D334"
+},
+ {
+  "name":"Supercoin",
+  "id":"277153892340734",
+  "lat":"48.892194418",
+  "lng":"2.34702266966",
+  "address":"3 rue Baudelique 75018 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xft1/v/t1.0-1/p50x50/10906195_821498454572939_7089792348951920768_n.jpg?oh=3b5b90c023e7f9d303762126a07eac84&oe=56AA5539&__gda__=1451077165_594d2a310e4400f09e2416f97a81d006"
+},
+ {
+  "name":"Swan Bar",
+  "id":"119774581529336",
+  "lat":"48.8403091",
+  "lng":"2.33533",
+  "address":"165 bd du Montparnase 75006 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/p50x50/11041630_501524146687709_6860270656059053207_n.jpg?oh=4e22796223c03b5c833eb7ba6c740f83&oe=5660B692&__gda__=1449320436_c5b627ed59b71cc9502bf530faedd811"
+},
+ {
+  "name":"Tambour",
+  "id":"451156238289222",
+  "lat":"48.854599",
+  "lng":"2.35008",
+  "address":"5 rue d'Arcole 75004 Paris",
+  "pins": ["bar2h","baravin","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/v/t1.0-1/c39.39.490.490/s50x50/533638_451438858260960_1155101161_n.jpg?oh=a15b8d94b1efde4f4372d6d993cf17d0&oe=5671C807&__gda__=1449395285_73578c080c40eafb985d1046dc75848e"
+},
+ {
+  "name":"Teddy's Bar",
+  "id":"417164071673804",
+  "lat":"48.845046659",
+  "lng":"2.34940006742",
+  "address":"3 RUE THOUIN 75005 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/c170.50.621.621/s50x50/561738_417170945006450_1455713456_n.jpg?oh=8c7b78e852bde50fc57f961858e4ce54&oe=566FF308"
+},
+ {
+  "name":"Terrasse de hôtel Raphael",
+  "id":"372686509515490",
+  "lat":"48.8713799",
+  "lng":"2.29357",
+  "address":"17 avenue Kléber 75116 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/y5/r/j258ei8TIHu.png"
+},
+ {
+  "name":"Terrasse des Archives",
+  "id":"214549015252431",
+  "lat":"48.8612804536",
+  "lng":"2.35802047952",
+  "address":"51 rue des archives 75003 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/p50x50/1962724_10152143018403884_891760501_n.jpg?oh=d186a12c97631dff02de183d4c539f52&oe=5678EC62"
+},
+ {
+  "name":"Terrasse du Printemps",
+  "id":"163421687017561",
+  "lat":"48.8737526",
+  "lng":"2.3281305",
+  "address":"64, bd Haussmann 75009 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-ash2/v/t1.0-1/p50x50/1000496_10151782155664533_1152359404_n.jpg?oh=3097da2e00bf432217ba98640dda8ca6&oe=566E9612"
+},
+ {
+  "name":"Théâtre des Blancs Manteaux",
+  "id":"216776345174303",
+  "lat":"48.858717",
+  "lng":"2.357377",
+  "address":"15 rue des blancs manteaux 75004 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCLPaVZPCf0dMLr&w=50&h=50&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc1%2FParis_theatre_des_blancs_manteaux.jpg%2F720px-Paris_theatre_des_blancs_manteaux.jpg&crop&fallback=hub_likes&prefix=q"
+},
+ {
+  "name":"Triplettes",
+  "id":"299693526854571",
+  "lat":"48.8706017",
+  "lng":"2.3789799",
+  "address":"102 Boulevard de Belleville  75020 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/v/t1.0-1/c1.0.50.50/p50x50/10273707_299798226844101_1323180438244558246_n.jpg?oh=5d96bb65400bc5a7a9080e7997b34a1e&oe=5679791B&__gda__=1453799533_cb9344852a2949653234219595826ed7"
+},
+ {
+  "name":"Troquet des Glaces",
+  "id":"241270486082618",
+  "lat":"48.8694115",
+  "lng":"2.36939",
+  "address":"46 rue du Faubourg du Temple 75011 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c36.3.508.508/s50x50/11215144_376278575915141_5126568326262227955_n.png?oh=2d843aa9d50eab36d058971066aafde4&oe=5676077A&__gda__=1453863225_94e618df0d00753fd00030e482a96208"
+},
+ {
+  "name":"Vieux Comptoir du Cap Horn",
+  "id":"152557368109667",
+  "lat":"48.8542595",
+  "lng":"2.3650999",
+  "address":"8 Rue de Birague 75004 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xtf1/v/t1.0-1/p50x50/10259957_10203567078162663_6553988018892169943_n.jpg?oh=aa3058a5769fb7d7a5123967fda863ce&oe=566FDB93"
+},
+ {
+  "name":"Vieux Léon",
+  "id":"29873234388",
+  "lat":"48.8628883",
+  "lng":"2.34886",
+  "address":"18 Rue de la Grande Truanderie 75001 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/p50x50/11146238_10152900711344389_3952089311381973199_n.jpg?oh=95a922cc8a7aae593ce76c6266f8a319&oe=567083EB"
+},
+ {
+  "name":"Voisins",
+  "id":"690844727672440",
+  "lat":"48.871047795",
+  "lng":"2.36287056",
+  "address":"27 rue Yves Toudic 75010 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/p50x50/10653384_691001644323415_8141432006248339824_n.jpg?oh=cc944ae4506f7c58f2b16095cb42a352&oe=566EBEE8"
+},
+ {
+  "name":"Wood",
+  "id":"1629189404012316",
+  "lat":"48.8755684",
+  "lng":"2.34919",
+  "address":"51 rue de Paradis 75010 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpl1/v/t1.0-1/p50x50/11954575_1636804533250803_7101528210609868083_n.jpg?oh=2924423488eeb9b63973979a64587ed7&oe=565F7B1F&__gda__=1449078589_1b3b7866e7246238e3a6232c79fe5e90"
+},
+ {
+  "name":"Zelda",
+  "id":"138493952913776",
+  "lat":"48.8698311",
+  "lng":"2.36921",
+  "address":"6 rue Bichat 75010 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xap1/v/t1.0-1/p50x50/10152033_608599572569876_7942373449870700790_n.png?oh=bec7d6ca0017e86ed9dde6683001b91a&oe=56A7F39E"
+},
+ {
+  "name":"Zéro Zéro",
+  "id":"161969777215832",
+  "lat":"48.8605769986",
+  "lng":"2.36776585612",
+  "address":"89, rue Amelot 75011 Paris",
+  "pins": ["barclub","barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfl1/v/t1.0-1/p50x50/1653637_597161253696680_96202062_n.jpg?oh=e332715241bad5f63f4518ae0d4d0253&oe=56694166&__gda__=1450646619_3eae7de1b24de257e6243be60cbb3e74"
+},
+ {
+  "name":"ZigZag Café",
+  "id":"203008963058089",
+  "lat":"48.8482704",
+  "lng":"2.3470099",
+  "address":"32, rue des Carmes 75005 Paris",
+  "pins": ["timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/c205.44.550.550/s50x50/298609_291516120874039_969993322_n.jpg?oh=4622a6844ada5fee504c601a1e54c1f1&oe=565DDDBB&__gda__=1451110851_0d3633cafe38f6619b858158f6401b8e"
+},
+ {
+  "name":"Zorba",
+  "id":"111843105574783",
+  "lat":"48.8693504",
+  "lng":"2.3450301",
+  "address":"23, rue des jeûneurs 75002 Paris",
+  "pins": ["bar2h","barclub","barcocktails","timeout"],
+  "note":"-",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/p50x50/11051922_775615965864157_8946166876753735459_n.jpg?oh=c08eaccd7866048ccd862ad49e6f0ab8&oe=56625AFE&__gda__=1449120841_909b30bd9645d3f44fcf76cddc007af2"
+},
+ {
+  "name":"114",
+  "id":"141818265916456",
+  "lat":"48.8717532015",
+  "lng":"2.31446744197",
+  "address":"112 Rue du Faubourg Saint-Honoré 75008 Paris",
+  "pins": ["bar2h","barclub","lebonbon","timeout"],
+  "note":"2.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p50x50/11018329_10205838976875086_6691562454981925740_n.jpg?oh=c6c8272746c28f82d9fee888b493c5db&oe=566378B7&__gda__=1450897745_7086a61d79ab5d69852ceed72ad4f518"
+},
+ {
+  "name":"138",
+  "id":"248704888503043",
+  "lat":"48.8504486",
+  "lng":"2.3794401",
+  "address":"138 rue du Faubourg Saint Antoine 75012 Paris",
+  "pins": ["bar2h","barclub","lebonbon","timeout"],
+  "note":"3.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/p50x50/10245451_745841448789382_8899560960115613577_n.jpg?oh=eac55f3e1a99abc57dad78b157015206&oe=56A78619"
+},
+ {
+  "name":"Adada",
+  "id":"191075480964078",
+  "lat":"48.8405609",
+  "lng":"2.32232",
+  "address":"15 RUE du Maine 75014 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xtp1/v/t1.0-1/p50x50/21291_848562105215409_7352170887002027306_n.jpg?oh=746d0d4062ec060a9e51f12e82a024e1&oe=5677CBA8"
+},
+ {
+  "name":"Agence",
+  "id":"209774505717848",
+  "lat":"48.8875618",
+  "lng":"2.3596301",
+  "address":"43 rue Marx Dormoy 75018 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/v/t1.0-1/c140.44.549.549/s50x50/1016516_632352766793351_1459963748_n.png?oh=5836757b62aef9f4c0beb252efe896b8&oe=5673F260&__gda__=1450447897_714cd76386f430a888359a5d710eb7ce"
+},
+ {
+  "name":"Alibi",
+  "id":"165226016825700",
+  "lat":"48.8920593",
+  "lng":"2.3428299",
+  "address":"11 rue Lapeyrere 75018 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/y5/r/j258ei8TIHu.png"
+},
+ {
+  "name":"Andy Wahloo",
+  "id":"158090534219775",
+  "lat":"48.8645096",
+  "lng":"2.3542299",
+  "address":"69 rue des gravilliers 75003 Paris",
+  "pins": ["barclub","barcocktails","timeout"],
+  "note":"3.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/t5.0-1/592269_158090534219775_726167384_q.jpg"
+},
+ {
+  "name":"Animals",
+  "id":"1016334425050526",
+  "lat":"48.8254318",
+  "lng":"2.3276801",
+  "address":"45 rue Sarrette 75014 Paris",
+  "pins": ["timeout"],
+  "note":"3.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xtp1/v/t1.0-1/p50x50/11207294_1190556424294991_8940481602053620451_n.jpg?oh=30af8305b580145d15539915a5e2a25d&oe=566A62E2"
+},
+ {
+  "name":"Apérock Café",
+  "id":"114431351917145",
+  "lat":"48.8633194",
+  "lng":"2.3705201",
+  "address":"46 Boulevard Voltaire  75011 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/c1.0.50.50/p50x50/994954_756776034349337_830569025_n.jpg?oh=00bf27530086d74c1d7fa37613c3ab56&oe=567C2CCA"
+},
+ {
+  "name":"Artisan",
+  "id":"745554972220679",
+  "lat":"48.8624916",
+  "lng":"2.3482101",
+  "address":"94 rue Rambuteau 75001 Paris",
+  "pins": ["barcache","barcocktails","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/p50x50/11694062_746310122145164_39986324663894627_n.jpg?oh=9955a7d004d496f432eee4c231ad009f&oe=56731C31&__gda__=1449316252_bf4e36c2632c342f9aa2a34f1cdd151a"
+},
+ {
+  "name":"Ballroom du Beefclub",
+  "id":"128418297323376",
+  "lat":"48.8641017623",
+  "lng":"2.34338669549",
+  "address":"58, rue Jean Jacques Rousseau 75001 Paris",
+  "pins": ["barcache","barcocktails","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c8.0.50.50/p50x50/10246623_292044524294085_2642801008138041728_n.jpg?oh=3c63e2a9f6b9250a68c6200f5aa7c884&oe=56692B7E&__gda__=1449090910_d4f08dfc9b0cd89230c28a30e1fe807b"
+},
+ {
+  "name":"Bar Ourcq",
+  "id":"211341572314513",
+  "lat":"48.8864708",
+  "lng":"2.3771501",
+  "address":"68 quai de la Loire 75019 Paris",
+  "pins": ["baravin","barclub","lebonbon","timeout"],
+  "note":"4.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c13.0.50.50/p50x50/11251126_789926207789377_6931462189493331171_n.jpg?oh=42f2f6f3fa54d92dc0ad6ef5495c6adc&oe=565D71C1&__gda__=1449145254_3a919ac470c03bbf983b0f869c09fe52"
+},
+ {
+  "name":"Barav",
+  "id":"158634264155651",
+  "lat":"48.8650731439",
+  "lng":"2.36297446227",
+  "address":"angle rue dupuis, rue de la corderie 75003 Paris",
+  "pins": ["baravin","lebonbon","timeout"],
+  "note":"4.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfa1/v/t1.0-1/c205.44.549.549/s50x50/309823_293693283983081_2030931222_n.jpg?oh=1622638bd0c594f88f3d0abd95450da5&oe=5665FFB5"
+},
+ {
+  "name":"Barberousse",
+  "id":"127371824081693",
+  "lat":"48.881031",
+  "lng":"2.34636",
+  "address":"69 rue Rochechouart 75009 Paris",
+  "pins": ["barcocktails","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBz789i5QodCCO8&w=50&h=50&url=http%3A%2F%2Fwww.librairiebarberousse.com%2Fwp-content%2Fuploads%2F2011%2F12%2FHeader2.png&crop&fallback=hub_place&prefix=q"
+},
+ {
+  "name":"Baron Rouge",
+  "id":"154332554601727",
+  "lat":"48.8494415",
+  "lng":"2.3774199",
+  "address":"1 Rue Théophile Roussel 75012 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/t5.0-1/203495_154332554601727_871213272_q.jpg"
+},
+ {
+  "name":"Béguin",
+  "id":"389306084486768",
+  "lat":"48.8809509",
+  "lng":"2.32903",
+  "address":"2, rue Cardinal Mercier 75009 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xap1/v/t1.0-1/c13.0.50.50/p50x50/1384088_529181340499241_2000475029_n.jpg?oh=224123124afa11d7c248eed9f03dcf4a&oe=567E445D"
+},
+ {
+  "name":"Bespoke",
+  "id":"395944147213725",
+  "lat":"48.8628387",
+  "lng":"2.36763",
+  "address":"3 rue Oberkampf 75011 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"4.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c13.0.50.50/p50x50/11692797_614758698665601_5462847730745719475_n.jpg?oh=642f1e43d09d65d160e861d12a7be298&oe=567F03F6&__gda__=1450852039_a31ac9f2252cf74aedb872a8347282c6"
+},
+ {
+  "name":"Bouillon Belge",
+  "id":"178212718887309",
+  "lat":"48.8521805",
+  "lng":"2.3992901",
+  "address":"6 rue Planchat 75020 Paris",
+  "pins": ["barabieres","barcache","timeout"],
+  "note":"3.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/c5.0.50.50/p50x50/64618_470550186320226_1256758944_n.jpg?oh=fabf972a70b159a03a27e8dc9184cd14&oe=567E49AB"
+},
+ {
+  "name":"Buvette",
+  "id":"181502538714153",
+  "lat":"48.8804870622",
+  "lng":"2.33751623427",
+  "address":"28 rue Henry Monnier 75009 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/t5.0-1/1076032_181502538714153_2134122975_q.jpg"
+},
+ {
+  "name":"Café A",
+  "id":"146781662051121",
+  "lat":"48.8754082",
+  "lng":"2.3600099",
+  "address":"148 rue du Faubourg Saint-Martin 75010 Paris",
+  "pins": ["timeout"],
+  "note":"3.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/p50x50/407781_259987310730555_431919919_n.jpg?oh=a1aba5017875e83d7371577f1d3bb901&oe=566DB5DB"
+},
+ {
+  "name":"Café Beaubourg",
+  "id":"107364845992230",
+  "lat":"48.8600006",
+  "lng":"2.3509099",
+  "address":"100 Rue Saint-Martin 75004 Paris",
+  "pins": ["timeout"],
+  "note":"3.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/c81.34.429.429/s50x50/46219_445633322165379_781909622_n.png?oh=621c6699e17496c5accaa0ac7813392f&oe=56765E8F"
+},
+ {
+  "name":"Café Bonnie",
+  "id":"51667883422",
+  "lat":"48.8743515",
+  "lng":"2.3619599",
+  "address":"9 rue des Récollets 75010 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-frc3/v/t1.0-1/c42.42.520.520/s50x50/557867_10151497185328423_1212914927_n.jpg?oh=c45ea430d29bc8823de88a751c4c3e02&oe=56711DA7&__gda__=1449584180_c3421119a08bbe5fb46d05c1a04c5bd8"
+},
+ {
+  "name":"Café Chilango",
+  "id":"613919915330554",
+  "lat":"48.8662179698",
+  "lng":"2.36987249299",
+  "address":"82 rue de la Folie Méricourt 75011 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/c0.0.50.50/p50x50/10298692_758719007517310_8831692121689411675_n.jpg?oh=53d4cc11283de1e52f25fe04dbb81b03&oe=56677C3D"
+},
+ {
+  "name":"Café du Commerce",
+  "id":"196950773677017",
+  "lat":"48.8847618",
+  "lng":"2.3471",
+  "address":"13 rue Clignancourt 75018 Paris",
+  "pins": ["timeout"],
+  "note":"3.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xla1/v/t1.0-1/p50x50/11225316_958638130841607_3722057671376054239_n.jpg?oh=aee2dab6c4c9adcf0a08e3c7764b3cf2&oe=56AB7D3E"
+},
+ {
+  "name":"Café Noir",
+  "id":"171273196307954",
+  "lat":"48.8664589",
+  "lng":"2.34427",
+  "address":"65 Rue Montmartre 75002 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Café Titon",
+  "id":"145478595548113",
+  "lat":"48.8528595",
+  "lng":"2.3863599",
+  "address":"34, rue titon 75011 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-frc3/v/t1.0-1/c55.110.552.552/s50x50/602862_402138419882128_1433505368_n.jpg?oh=448166cae14ea181752a61ecc5c281e7&oe=56A9A053"
+},
+ {
+  "name":"Café Tournesol",
+  "id":"122290327826653",
+  "lat":"48.8404503",
+  "lng":"2.3243201",
+  "address":"9 rue de la gaîté 75014 Paris",
+  "pins": ["timeout"],
+  "note":"3.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtp1/v/t1.0-1/p50x50/1743740_616356861753328_1761908685_n.jpg?oh=4f286f488830f814d06b21bb7358f53a&oe=567C0781&__gda__=1451086901_3bd3399bd7e35c782833737d7c94b34c"
+},
+ {
+  "name":"Calbar",
+  "id":"311786442211198",
+  "lat":"48.8486992536",
+  "lng":"2.37550429018",
+  "address":"82 Rue de Charenton 75012 Paris",
+  "pins": ["barcocktails","lebonbon","timeout"],
+  "note":"4.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/p50x50/11987042_974667319256437_5096216028981689407_n.jpg?oh=3144ce15b6f4ec269485d142f6dc55f7&oe=56A885C3"
+},
+ {
+  "name":"Candelaria",
+  "id":"177399535635747",
+  "lat":"48.8630028674",
+  "lng":"2.3642006858",
+  "address":"52 rue de Saintonge 75003 Paris",
+  "pins": ["barcache","barcocktails","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/v/t1.0-1/c13.0.50.50/p50x50/249137_607189125990117_543841808_n.jpg?oh=7fa42e5f1903d1aea6f246b3b16a2d42&oe=567ABD18&__gda__=1451190241_55dae71c4dd71e37333ceaf4d86d83f5"
+},
+ {
+  "name":"Caravane",
+  "id":"114912045263173",
+  "lat":"48.8683281",
+  "lng":"2.3713901",
+  "address":"35, rue de la Fontaine au Roi 75011 Paris",
+  "pins": ["timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtp1/v/t1.0-1/c13.0.50.50/p50x50/10449892_659191077501931_5163725280324462095_n.jpg?oh=7f915a657751230e264a327793d70812&oe=567D3601&__gda__=1449494648_4df89801f784b1cd3fe93a20d50e87e2"
+},
+ {
+  "name":"Carbone 14",
+  "id":"168260146671680",
+  "lat":"48.8555908",
+  "lng":"2.38727",
+  "address":"6 rue Emile Lepeu 75011 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpt1/v/t1.0-1/p50x50/11401010_489720394525652_3647689672177082804_n.jpg?oh=13b13c6e7ff9e173371ecb4e8faaa51b&oe=567C13CD&__gda__=1449349013_277afa0b06de0ac3c9642d47b181036d"
+},
+ {
+  "name":"Carillon",
+  "id":"133176896730266",
+  "lat":"48.8614082",
+  "lng":"2.3780401",
+  "address":"3 R. Gén Renault 75011 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/y5/r/j258ei8TIHu.png"
+},
+ {
+  "name":"Caves de Prague",
+  "id":"697847863640454",
+  "lat":"48.8496895",
+  "lng":"2.37603",
+  "address":"8 rue de prague 75012 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"4.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xft1/v/t1.0-1/p50x50/10600493_698041590287748_6515229448143709330_n.jpg?oh=afd7c6e366e23da8a23ba8ab66024cad&oe=5661B006"
+},
+ {
+  "name":"Caves Populaires",
+  "id":"113011202222238",
+  "lat":"48.8847389",
+  "lng":"2.32459",
+  "address":"22 rue des dames 75017 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c16.16.197.197/s50x50/150397_113014522221906_532458513_n.jpg?oh=1cadf11dc6b13cb39eb691b62757ef33&oe=5675A219&__gda__=1451053010_bcc2fa95105e41673f7d4281f4d210aa"
+},
+ {
+  "name":"Chair de Poule",
+  "id":"200463626784420",
+  "lat":"48.8676682",
+  "lng":"2.3754599",
+  "address":"141 Rue St Maur 75011 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xtp1/v/t1.0-1/p50x50/11014809_464991350331645_6366589096492452242_n.jpg?oh=b2b7d4d046cc3115b40a1ed35d23d093&oe=567AE9C5"
+},
+ {
+  "name":"Chez Camille",
+  "id":"363349050420030",
+  "lat":"48.857769215",
+  "lng":"2.36074185325",
+  "address":"Rue des Francs Bourgeois 75003 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p50x50/1621973_633069390145035_4464165677848395939_n.jpg?oh=a43181a909f2d0d709240bbe9b4b685f&oe=5666A4FA&__gda__=1454020905_3224638e1cb1c39fe149b744c12ee042"
+},
+ {
+  "name":"Chez Georges",
+  "id":"173301037327",
+  "lat":"48.8521881",
+  "lng":"2.33374",
+  "address":"11 rue des Canettes 75006 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/p50x50/11707361_10153459403632328_5221049375636567656_n.jpg?oh=7955560fb2ea5a74b1bb3af1a659e3c5&oe=5670D28C"
+},
+ {
+  "name":"Chez Jeannette",
+  "id":"134247690012869",
+  "lat":"48.8715442534",
+  "lng":"2.35360950668",
+  "address":"47 rue du faubourg St.Denis  75010 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/v/t1.0-1/p50x50/1385923_439143812856587_2071255159_n.jpg?oh=f6a9e5fd0d6e2caaca90492b302f4a37&oe=565EF6B7&__gda__=1450895670_2631b7b0b77fa26411eda44c2504ac1f"
+},
+ {
+  "name":"Cinquante",
+  "id":"195059667184887",
+  "lat":"48.8719482",
+  "lng":"2.3626699",
+  "address":"50, rue de Lancry 75010 Paris",
+  "pins": ["baravin","lebonbon","timeout"],
+  "note":"4.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/p50x50/11822379_1009161172441395_6072296448573436954_n.jpg?oh=b4d3463dbafd009216c8b09cb494e2f3&oe=56673E14"
+},
+ {
+  "name":"Ciré Jaune",
+  "id":"162046983950051",
+  "lat":"48.8668289",
+  "lng":"2.37643",
+  "address":"112 rue Saint-Maur 75011 Paris",
+  "pins": ["timeout"],
+  "note":"4.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-prn2/v/t1.0-1/c66.66.828.828/s50x50/544083_162047673949982_279937041_n.jpg?oh=cfb2db688605249bdafbbff9c0445288&oe=56603B2B"
+},
+ {
+  "name":"Coltrane",
+  "id":"1610688662512105",
+  "lat":"48.8674507",
+  "lng":"2.3587301",
+  "address":"38 rue Notre Dame de Nazareth 75003 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfl1/v/t1.0-1/p50x50/1932238_1613299648917673_4799542231751516891_n.jpg?oh=be45bf92882dc65b0843c6ba6472d47f&oe=56740F5E&__gda__=1450226085_3adbe0f7fc2357cee59997ee6ed62c7a"
+},
+ {
+  "name":"Compagnie des vins surnaturels",
+  "id":"260554963977050",
+  "lat":"48.8516693",
+  "lng":"2.33634",
+  "address":"7 rue Lobineau 75006 Paris",
+  "pins": ["baravin","lebonbon","timeout"],
+  "note":"4.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c48.48.600.600/s50x50/320579_260555753976971_1726800161_n.jpg?oh=308b9f7495191068b16ed5f2f8cab000&oe=567A727E&__gda__=1450913257_7364a207549aa2965f6162f90427ce42"
+},
+ {
+  "name":"Comptoir Général",
+  "id":"160352430648712",
+  "lat":"48.8725285589",
+  "lng":"2.36564334174",
+  "address":"80 quai de Jemmapes 75010 Paris",
+  "pins": ["barcocktails","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/p50x50/11692722_1179028642114414_5108423617251153640_n.png?oh=3b997c5173f1f7b73dd2c43736b8ce43&oe=56727D1F&__gda__=1449862021_46d8ccf81bc11afa8cd460f3bd445f57"
+},
+ {
+  "name":"Connétable",
+  "id":"524306420951855",
+  "lat":"48.8614502",
+  "lng":"2.3583801",
+  "address":"55 rue des Archives 75003 Paris Paris",
+  "pins": ["bar2h","baravin","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p50x50/1528682_10202386637323134_1650644703_n.jpg?oh=f0a0efcea705cca5fd04cc30a5c1f363&oe=56AAFC8D&__gda__=1449543983_a479e9f2a942879d54a31a8b39780093"
+},
+ {
+  "name":"Conserverie",
+  "id":"671971619520655",
+  "lat":"48.8532715",
+  "lng":"2.33863",
+  "address":"7 rue de l'Ancienne Comedie 75006 Paris 75006 Paris",
+  "pins": ["baravin","barcache","barclub","barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/y5/r/j258ei8TIHu.png"
+},
+ {
+  "name":"CopperBay",
+  "id":"804876182871023",
+  "lat":"48.8698502",
+  "lng":"2.35711",
+  "address":"5 Rue Bouchardon 75010 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"4.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p50x50/10399989_830386650319976_3111245830984020691_n.jpg?oh=055966e6cd6ec39de859b558df0a3061&oe=567CB9F6&__gda__=1450161501_df344460d354a05ef065de06821f27ad"
+},
+ {
+  "name":"Cordonnerie",
+  "id":"154091774613706",
+  "lat":"48.8652115",
+  "lng":"2.35062",
+  "address":"28, Rue Greneta 75010 Paris",
+  "pins": ["barabieres","lebonbon","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/p50x50/10462724_10152271213349426_8706978604596091753_n.jpg?oh=5cd06eea620b9a9215085e6fd4dd0551&oe=567B0A00&__gda__=1449242505_4ec620d241860c55001c3067b7660a06"
+},
+ {
+  "name":"Cri du glaçon",
+  "id":"410122562353308",
+  "lat":"48.8671799",
+  "lng":"2.3757401",
+  "address":"74 rue Jean Pierre Timbaud 75011 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"4.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c0.0.50.50/p50x50/10351748_574441855921377_8052405386015609860_n.jpg?oh=d02f0ab967fcf017ff7bd4c11f924b82&oe=5668391E&__gda__=1450294349_8dbdcf6aa1eeb5fab02a040a233f4bc6"
+},
+ {
+  "name":"Crocodile",
+  "id":"160684580649575",
+  "lat":"48.8456988907",
+  "lng":"2.34217611474",
+  "address":"6 rue Royer-Collard 75005 Paris",
+  "pins": ["barcocktails","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xap1/v/t1.0-1/c153.33.413.413/s50x50/180539_160686900649343_6921843_n.jpg?oh=7840523abf4da81054e2fabd6bc0a946&oe=566C7EF9"
+},
+ {
+  "name":"Cyrano",
+  "id":"154563441248333",
+  "lat":"48.8838387",
+  "lng":"2.3264999",
+  "address":"3 rue Biot 75017 Paris",
+  "pins": ["timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/y5/r/j258ei8TIHu.png"
+},
+ {
+  "name":"Delaville Café",
+  "id":"143398322371749",
+  "lat":"48.8707085",
+  "lng":"2.34936",
+  "address":"34 boulevard bonne nouvelle 75010 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"3.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.14.50.50/p50x50/11846542_1046370292074543_5690016997981217073_n.jpg?oh=91d3b520fda4dc31da791f0d17e198ff&oe=56709141&__gda__=1453982317_62658f48e7240fdd969f67a2e73eb146"
+},
+ {
+  "name":"Dirty Dick",
+  "id":"504787289561262",
+  "lat":"48.8815533521",
+  "lng":"2.33742639786",
+  "address":"10, rue Frochot 75009 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/c0.3.50.50/p50x50/1538773_689494124423910_354944137_n.png?oh=5da04d9461e8df49308304e1b278f3db&oe=5671C5D3"
+},
+ {
+  "name":"Downtown Café",
+  "id":"69250455614",
+  "lat":"48.8662987",
+  "lng":"2.37234",
+  "address":"46 rue Jean-Pierre Timbaud 75011 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c3.0.50.50/p50x50/229327_10150594936265615_459681_n.jpg?oh=57cd5e74ea0600ec019bcd0d08bf5889&oe=56A7F93C&__gda__=1449972625_c3f1fde7870172c0c9aa76f7f670eb4a"
+},
+ {
+  "name":"Dude",
+  "id":"641227159221546",
+  "lat":"48.8733597",
+  "lng":"2.37076",
+  "address":"214, rue Saint-Maur 75010 Paris",
+  "pins": ["timeout"],
+  "note":"4.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xtp1/v/t1.0-1/c250.3.640.640/s50x50/1391519_678724925471769_178089317_n.jpg?oh=10d02aee8bb948d2234864408e3c72fd&oe=56ABC868"
+},
+ {
+  "name":"En attendant Rosa",
+  "id":"621791967910466",
+  "lat":"48.8631744563",
+  "lng":"2.31530036378",
+  "address":"37 quai d'Orsay, entre les ponts Concorde et Alexandre III 7e Paris 75008 Paris",
+  "pins": ["timeout"],
+  "note":"2.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"En Vrac",
+  "id":"394550720640770",
+  "lat":"48.8902512",
+  "lng":"2.3613501",
+  "address":"2, rue l'olive 75018 Paris",
+  "pins": ["baravin","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/p50x50/10387566_660099947419178_7822352788899427242_n.jpg?oh=755b1a827e60e033363a0629a6f6a378&oe=566589C2"
+},
+ {
+  "name":"Epoque",
+  "id":"929096440447078",
+  "lat":"48.86314261",
+  "lng":"2.33956282",
+  "address":"Galerie Véro-Dodat - 2 rue du Bouloi 75001 Paris",
+  "pins": ["timeout"],
+  "note":"3.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/p50x50/11891138_982221881801200_5409753282752639254_n.jpg?oh=d6d81ec0d2b3c3b9c65c6c2009182cd7&oe=5669DB15"
+},
+ {
+  "name":"Etages",
+  "id":"132473260137700",
+  "lat":"48.8537541801",
+  "lng":"2.33804603477",
+  "address":"Rue de Buci 75006 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Etoile Manquante",
+  "id":"411248335603163",
+  "lat":"48.8575592",
+  "lng":"2.3576801",
+  "address":"34 Rue Vieille du Temple 75004 Paris",
+  "pins": ["timeout"],
+  "note":"3.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xft1/t5.0-1/1086938_411248335603163_147403314_q.jpg"
+},
+ {
+  "name":"Experimental Cocktail Club",
+  "id":"832880536726612",
+  "lat":"48.8660980709",
+  "lng":"2.34829374181",
+  "address":"37, rue Saint Sauveur 75002 Paris",
+  "pins": ["bar2h","barcache","barclub","barcocktails","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/c1.0.50.50/p50x50/1901308_832890593392273_4119947051416571418_n.jpg?oh=c6ef735e91201d774ec9a4f7c600746d&oe=567922DA&__gda__=1450358251_95789a2bceae415f4a0d3a9d4bf3af6d"
+},
+ {
+  "name":"Express de Lyon",
+  "id":"250206515102179",
+  "lat":"48.8473587",
+  "lng":"2.3719201",
+  "address":"10, rue de Lyon 75012 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/v/t1.0-1/p50x50/10407768_601779199944907_606918196755736647_n.png?oh=ffc7a8e376d97290095b901e750c108b&oe=56712192&__gda__=1448971767_df2b81dc4dc5d5dfeecc0802254ac241"
+},
+ {
+  "name":"Fantôme",
+  "id":"552396391485903",
+  "lat":"48.875351",
+  "lng":"2.3510799",
+  "address":"36 rue de paradis 75010 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"3.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/p50x50/1236452_585135801545295_965996303_n.png?oh=6de39cfb5f983143c5197d16293ba886&oe=56A97F24"
+},
+ {
+  "name":"Féline",
+  "id":"259376990774354",
+  "lat":"48.8671417",
+  "lng":"2.3852601",
+  "address":"6 rue victor letalle 75020 Paris",
+  "pins": ["timeout"],
+  "note":"4.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c10.0.50.50/p50x50/1378875_652721808106535_1978397126_n.jpg?oh=046a5a829731b3125430a4fe977a90bf&oe=56A9D887&__gda__=1449242242_d7e8012a50c2c38a9198301770688b6c"
+},
+ {
+  "name":"Festin Nu",
+  "id":"467850496603700",
+  "lat":"48.8904959536",
+  "lng":"2.33921617631",
+  "address":"10 rue de la Fontaine du But 75018 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"3.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xat1/v/t1.0-1/c66.66.828.828/s50x50/21103_489180407804042_292266060_n.jpg?oh=ca43545a8cf5e8ecd55b80b2e7155b24&oe=566DFC78"
+},
+ {
+  "name":"Fine Mousse",
+  "id":"254454564615695",
+  "lat":"48.8648605",
+  "lng":"2.3817699",
+  "address":"6 avenue Jean Aicard 75011 Paris",
+  "pins": ["barabieres","baravin","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p50x50/1383063_581634058564409_787655640_n.jpg?oh=bda6be13cf7fcfbc31a88c1f9d2a7b26&oe=56678F37&__gda__=1450460989_87bb9ba2090dda0dc16d2e38b823611a"
+},
+ {
+  "name":"Folie en Tête",
+  "id":"360676347359854",
+  "lat":"48.8275414",
+  "lng":"2.34812",
+  "address":"33, rue de la butte aux cailles 75013 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p50x50/1977261_767025873391564_7934455651433828346_n.png?oh=5c2e448a280e6804d7c3f29366603c35&oe=5671C365&__gda__=1450189849_537fd01a206b4a798dd6ff80ec9e4d7a"
+},
+ {
+  "name":"Frange",
+  "id":"747843658622522",
+  "lat":"48.8543587",
+  "lng":"2.3389599",
+  "address":"38 Rue Dauphine 75006 Paris",
+  "pins": ["timeout"],
+  "note":"4.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/c1.0.50.50/p50x50/11036950_888582347881985_7079448170638215436_n.jpg?oh=1964351e28bc6e4002d85fb43e968f19&oe=566FFD75"
+},
+ {
+  "name":"French Flair",
+  "id":"157688594275495",
+  "lat":"48.8843525431",
+  "lng":"2.33057123465",
+  "address":"75 Bis bd de Clichy 75009 Paris",
+  "pins": ["timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/p50x50/1377096_639954439382239_1690074666_n.jpg?oh=ee2ae106f40f9aceca6ac849dd48bdd5&oe=566ABB4E&__gda__=1448996410_822f96ec81e69f5fa0e48bc91d98a1de"
+},
+ {
+  "name":"Fumoir",
+  "id":"171618829550801",
+  "lat":"48.8604813",
+  "lng":"2.3408501",
+  "address":"6 rue de l'Amiral de Coligny 75001 Paris",
+  "pins": ["timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/t5.0-1/1086648_171618829550801_1165273275_q.jpg"
+},
+ {
+  "name":"Glass",
+  "id":"517858384897639",
+  "lat":"48.8815578947",
+  "lng":"2.33744356758",
+  "address":"7, Rue Frochot 75009 Paris",
+  "pins": ["barcache","barcocktails","lebonbon","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/c13.0.50.50/p50x50/1385453_755571551126320_1262258572_n.jpg?oh=d1ace71625b6c9c4a473c9e881adec09&oe=565F06A3&__gda__=1451097630_2244f68481783fae453d4c88e2be6664"
+},
+ {
+  "name":"Gossima Ping Pong Bar",
+  "id":"486600068080251",
+  "lat":"48.8648682",
+  "lng":"2.38276",
+  "address":"4 rue Victor Gelez 75011 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p50x50/10006242_649086848498238_1830733221_n.jpg?oh=19f8c8da7749c11044812133c424c822&oe=56741496&__gda__=1449019454_daa7c48f8c50805bab4ea19021b53bee"
+},
+ {
+  "name":"Guinness Tavern",
+  "id":"159681857499804",
+  "lat":"48.8597806021",
+  "lng":"2.34847612497",
+  "address":"31 bis rue des lombards  75001 PARIS 75001 Paris",
+  "pins": ["bar2h","barabieres","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xal1/v/t1.0-1/p50x50/11988433_1633625143554064_7195635187821242243_n.jpg?oh=133fde3a53866d83aec7696336372bf1&oe=56AA2CF7&__gda__=1449530935_72d2093c28e69466f1b22aa70350fea2"
+},
+ {
+  "name":"Imprévu Café",
+  "id":"126734657536",
+  "lat":"48.8595009",
+  "lng":"2.3496599",
+  "address":"9 rue Quincampoix 75004 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xft1/v/t1.0-1/c4.0.50.50/p50x50/10403014_10151939660017537_246407395178614316_n.jpg?oh=82d8681680c95551caa4b9faf612ec99&oe=5670C72E&__gda__=1449383050_5c039aa47c15de7924d7660e66537790"
+},
+ {
+  "name":"Inaro",
+  "id":"376637495715367",
+  "lat":"48.8681576012",
+  "lng":"2.36134622413",
+  "address":"38 rue René Boulanger 75010 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"4.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfa1/v/t1.0-1/p50x50/10401466_723053374407109_7295760755923131112_n.jpg?oh=5eccb35287b97acfe117ffb1429c2748&oe=56626047"
+},
+ {
+  "name":"ivress",
+  "id":"143244845715549",
+  "lat":"48.868721",
+  "lng":"2.34761",
+  "address":"5 rue poissonnière 75002 Paris",
+  "pins": ["baravin","lebonbon","timeout"],
+  "note":"4.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xap1/v/t1.0-1/c0.18.50.50/p50x50/71760_157807570925943_6741070_n.jpg?oh=6f86dd42cc23a4b542cf73451b28abfa&oe=5676FB55"
+},
+ {
+  "name":"Jackets",
+  "id":"190085984493533",
+  "lat":"48.8666328633",
+  "lng":"2.36154934574",
+  "address":"20 Rue de Picardie 75003 Paris",
+  "pins": ["timeout"],
+  "note":"5.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/y5/r/j258ei8TIHu.png"
+},
+ {
+  "name":"Javelle",
+  "id":"524772137649552",
+  "lat":"48.8411570052",
+  "lng":"2.27072035124",
+  "address":"Port Javel Bas  75015 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"4.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/c3.0.50.50/p50x50/11707555_738667052926725_353350203347510338_n.png?oh=bd8f7e4fb4d3e41f56c53289a620459c&oe=566EAC9A&__gda__=1449897565_8856fd365b1ec61466bf9d18a5fd7250"
+},
+ {
+  "name":"Joséphine",
+  "id":"436408193096227",
+  "lat":"48.8557701",
+  "lng":"2.33338",
+  "address":"42 RUE JACOB 75006 Paris",
+  "pins": ["baravin","bar2h","barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/p50x50/11880387_935686136501761_3022220072138741456_n.jpg?oh=c14fa003e7e31117064a7137b0314244&oe=56A9DD6D"
+},
+ {
+  "name":"Kitch",
+  "id":"156411724389780",
+  "lat":"48.8537903",
+  "lng":"2.34039",
+  "address":"25, rue des Grands Augustins 75006 Paris",
+  "pins": ["barcocktails","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtp1/v/t1.0-1/c9.0.50.50/p50x50/11703382_1090043501026593_1295337938814815712_n.jpg?oh=1e4ba35568e453e64fb7ca68f0860b11&oe=566D67F0&__gda__=1449564297_c9f83217fb943e3930a82fef98f3243d"
+},
+ {
+  "name":"Lèche Vin",
+  "id":"230326013754916",
+  "lat":"48.8549777982",
+  "lng":"2.37061123052",
+  "address":"13 rue Daval 75011 PARIS 75011 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Limonaire",
+  "id":"678878435490444",
+  "lat":"48.8721085",
+  "lng":"2.3448801",
+  "address":"18 cité Bergère 75009 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/c12.0.50.50/p50x50/1460234_728032243908396_1672726127_n.jpg?oh=e7d9757419d6e8e4c692ddd358ac307a&oe=567A1212"
+},
+ {
+  "name":"Lipstick",
+  "id":"587695084645173",
+  "lat":"48.8814087",
+  "lng":"2.3373799",
+  "address":"5 rue frochot 75009 Paris",
+  "pins": ["barclub","barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/p50x50/10373519_681301401951207_3442485833861617841_n.jpg?oh=c358df2b08da595be3e4fd3f88084160&oe=5664B5CC&__gda__=1450203292_d084be73ddbbfcccea11391b5a0d4e57"
+},
+ {
+  "name":"Little",
+  "id":"169854136383151",
+  "lat":"48.8532219",
+  "lng":"2.33793",
+  "address":"11, rue Grégoire de Tours 75006 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"4.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/v/t1.0-1/c10.0.50.50/p50x50/555927_578653942169833_1496315428_n.jpg?oh=c40a15f4a84116b5627f3fd8b4c47e69&oe=56A7D632&__gda__=1450812661_1543f7f020777ca92e8095416417f50e"
+},
+ {
+  "name":"Little Red Door",
+  "id":"358677590879888",
+  "lat":"48.8636398",
+  "lng":"2.3635299",
+  "address":"60 rue Charlot 75003 Paris",
+  "pins": ["barcocktails","lebonbon","timeout"],
+  "note":"4.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xft1/v/t1.0-1/p50x50/11150495_854019914678984_4746808351135150337_n.jpg?oh=a4c0a549722f797a3649e334d0d8f4d9&oe=567AB3F5&__gda__=1449702369_94f10df888567d072358bba5fc8b860c"
+},
+ {
+  "name":"Lock Groove",
+  "id":"643984088960425",
+  "lat":"48.83535",
+  "lng":"2.3266799",
+  "address":"15 rue Roger 75014 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c14.12.153.153/s50x50/1170779_712309802127853_1717595103_n.jpg?oh=130595c8a9a529cc267e801bba5b7bab&oe=5665755F&__gda__=1450765437_7e7fdd98484321ff6c3c7986dec410bd"
+},
+ {
+  "name":"Lou Pascalou",
+  "id":"141276561660",
+  "lat":"48.866291",
+  "lng":"2.3856201",
+  "address":"14 rue des Panoyaux 75020 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/p50x50/10665294_10153395659991661_7170755257855128101_n.jpg?oh=3792a6381457bca8d4db1e3c529a8423&oe=566763BB"
+},
+ {
+  "name":"Lucha Libre",
+  "id":"156038311087751",
+  "lat":"48.8489418",
+  "lng":"2.3484499",
+  "address":"10 Rue de la Montagne Sainte-Geneviève 75005 Paris",
+  "pins": ["timeout"],
+  "note":"3.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfp1/v/l/t1.0-1/p50x50/11150664_968726169818957_6178955220362560055_n.jpg?oh=e2b6aa5421d0489f6c29e2453e2dc458&oe=565F19E1"
+},
+ {
+  "name":"Lulu White",
+  "id":"380334005424995",
+  "lat":"48.881649",
+  "lng":"2.33745",
+  "address":"12 Rue Frochot 75009 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p50x50/11873416_452014124923649_2010424318995896247_n.jpg?oh=7327b1a2345d1472ffb2a36589aeca01&oe=56674553&__gda__=1451025912_27ccb6adfa4b12d19bb1c6dab91ec51f"
+},
+ {
+  "name":"Marilou",
+  "id":"117981701687090",
+  "lat":"48.8719406",
+  "lng":"2.36691",
+  "address":"8 rue Marie et Louise 75010 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/p50x50/530803_151977114954215_348539253_n.jpg?oh=ba4a36c8272d556aa2532487e9744bdf&oe=566524C3&__gda__=1450388778_e16e9e3fe7af1d0697b52029c845aee3"
+},
+ {
+  "name":"Maroquinerie",
+  "id":"174356179294437",
+  "lat":"48.8685188437",
+  "lng":"2.392118688",
+  "address":"23 rue Boyer 75020 Paris",
+  "pins": ["timeout"],
+  "note":"4.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xft1/v/t1.0-1/p50x50/10649500_764415686955147_5692881692221626534_n.jpg?oh=f73ac309adb8bbc808dea7e7a843dfd7&oe=565D476B&__gda__=1449897599_85cfd610dc30f0a4d3a565594e528130"
+},
+ {
+  "name":"Mary Céleste",
+  "id":"396980953716490",
+  "lat":"48.8618160629",
+  "lng":"2.36499262493",
+  "address":"1, Rue Commines 75003 Paris",
+  "pins": ["barcache","barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-ash2/v/t1.0-1/c0.14.50.50/p50x50/1393749_534335693314348_536400418_n.jpg?oh=5d855238d9e0d4a0002919a728cd9370&oe=5672455C"
+},
+ {
+  "name":"Mauri7",
+  "id":"380748391972307",
+  "lat":"48.8715897",
+  "lng":"2.35378",
+  "address":"46 rue du faubourg saint denis  75010 Paris",
+  "pins": ["timeout"],
+  "note":"3.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-ash2/v/t1.0-1/c65.65.818.818/s50x50/1014393_546772085369936_1675210190_n.jpg?oh=37877faf71a67ae6f408e8a623423d23&oe=566D1CBE"
+},
+ {
+  "name":"Mécanique Ondulatoire",
+  "id":"180056048702133",
+  "lat":"48.8536987",
+  "lng":"2.37465",
+  "address":"8 passage Thiéré 75011 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c0.0.50.50/p50x50/11060846_945652882142442_5702570948217749146_n.jpg?oh=cf5c84d310f85554d574e5dc6dbd928b&oe=567AA7F2&__gda__=1449232086_4619bcf83791c6f3e35f0a5d420467ff"
+},
+ {
+  "name":"Monsieur Baba",
+  "id":"130931287112889",
+  "lat":"48.8726419427",
+  "lng":"2.3543379944",
+  "address":"69, Rue du Faubourg Saint Denis 75010 Paris",
+  "pins": ["timeout"],
+  "note":"3.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-frc3/v/l/t1.0-1/p50x50/1394151_10201688037555793_442324684_n.jpg?oh=4b412cea8d1c2077d92cd28b916410ea&oe=567B5AFA"
+},
+ {
+  "name":"Moonshiner",
+  "id":"390791131035525",
+  "lat":"48.8556769474",
+  "lng":"2.37121355745",
+  "address":"5 rue Sedaine 75011 Paris",
+  "pins": ["barcache","barcocktails","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c66.66.828.828/s50x50/283782_393413550773283_311611838_n.jpg?oh=846d14ab76e8643d8583565b27b91656&oe=56754DB3&__gda__=1453803519_b6c3c7f84a159e6b2d333bd68bfe206a"
+},
+ {
+  "name":"Nul Bar Ailleurs",
+  "id":"123009531093588",
+  "lat":"48.8499107",
+  "lng":"2.3780899",
+  "address":"18 rue de cotte 75012 Paris",
+  "pins": ["timeout"],
+  "note":"4.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p50x50/11828804_925246874203179_4231910039089700224_n.jpg?oh=71bf3ca9b643292bbe2129c835e64127&oe=56A75054&__gda__=1449630975_872f6b4a45e5fd58e3d95500e1df360b"
+},
+ {
+  "name":"Olympic Café",
+  "id":"182712998418214",
+  "lat":"48.8879089",
+  "lng":"2.35359",
+  "address":"20, rue Léon 75018 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfa1/v/t1.0-1/p50x50/1896746_704735976215911_1284818063_n.jpg?oh=a5b7980e781b4b2fd0aba7ea579af690&oe=56618C28"
+},
+ {
+  "name":"Onze Bar",
+  "id":"370147986506341",
+  "lat":"48.8526688",
+  "lng":"2.3454001",
+  "address":"11 rue Xavier Privas 75005 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xfa1/v/t1.0-1/c8.0.50.50/p50x50/11120513_370148803172926_3465604677793951932_n.jpg?oh=c6e116ae23e64fef85323dc71a49c6dd&oe=5668576A"
+},
+ {
+  "name":"Orange Mécanique",
+  "id":"114642941913349",
+  "lat":"48.8672488319",
+  "lng":"2.375609219",
+  "address":"72 bis rue Jean Pierre Timbaud 75011 Paris",
+  "pins": ["barclub","barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c12.0.50.50/p50x50/45102_135631503147826_5269223_n.jpg?oh=311d8f7109500d0e85e36947b35e7b74&oe=56650981&__gda__=1450090803_d4465ae4e91521df2581b4eeef06713e"
+},
+ {
+  "name":"Ours Bar",
+  "id":"223653451134437",
+  "lat":"48.8745995",
+  "lng":"2.3545001",
+  "address":"8 rue de Paradis 75010 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/p50x50/1385374_224610211038761_377638676_n.jpg?oh=f335eb6ebc3a80141f6a487e09a05371&oe=56656841"
+},
+ {
+  "name":"Panic Room",
+  "id":"45273993241",
+  "lat":"48.8612595",
+  "lng":"2.3676",
+  "address":"101, rue Amelot 75011 Paris",
+  "pins": ["barclub","barcocktails","lebonbon","timeout"],
+  "note":"3.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-prn2/v/t1.0-1/p50x50/10340010_10153444896213242_5104664976078084318_n.png?oh=09a63d2e76e68f635df8d501ca19378e&oe=567F2482"
+},
+ {
+  "name":"Pantalon",
+  "id":"182161245127823",
+  "lat":"48.8457108",
+  "lng":"2.34197",
+  "address":"7, Rue Royer-Collard 75005 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p50x50/1509904_379203992216962_2012021820_n.jpg?oh=51336fa9262743bac66b02ad03dfeab4&oe=567D8237&__gda__=1450159001_2184c4a0828a2c640912ae1fd326b05e"
+},
+ {
+  "name":"Pasdeloup",
+  "id":"1526988524198738",
+  "lat":"48.8630104",
+  "lng":"2.36731",
+  "address":"108 rue Amelot 75011 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c0.0.50.50/p50x50/1238123_1544021569162100_8236721843135904077_n.jpg?oh=dfa4faeaecc289bfc1f32c223a0e5285&oe=567F18BA&__gda__=1451031198_a8b9f3f12319f581529709daeb332e32"
+},
+ {
+  "name":"Péniche Antipode",
+  "id":"246713538690728",
+  "lat":"48.8867034463",
+  "lng":"2.37517777553",
+  "address":"Face au 55 quai de Seine 75019 Paris",
+  "pins": ["barabieres","barclub","timeout"],
+  "note":"4.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/p50x50/11745417_1078561238839283_4361436385943148228_n.jpg?oh=4973f22298d4a017f0f40a5b63a91f79&oe=565D62EB"
+},
+ {
+  "name":"Perchoir",
+  "id":"535057049895352",
+  "lat":"48.8654073511",
+  "lng":"2.38177736345",
+  "address":"14 rue Crespin du Gast 75011 Paris",
+  "pins": ["timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c11.0.50.50/p50x50/1376428_586816291386094_106573872_n.jpg?oh=16e91549494dc13e2fe464c2aa22e07e&oe=5662BED7&__gda__=1454037325_57978428c3969a417e0247a4811ba232"
+},
+ {
+  "name":"Petit Journal Montparnasse",
+  "id":"291935334268542",
+  "lat":"48.8389091",
+  "lng":"2.3206601",
+  "address":"13, rue du Commandant René Mouchotte 75014 Paris",
+  "pins": ["timeout"],
+  "note":"3.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xlp1/v/t1.0-1/p50x50/1795711_449714301823977_1208972133_n.jpg?oh=d79b28c7db7b0a4fd64614c77343ab81&oe=566E0A40&__gda__=1454051314_5005403379d59c529b04d27caad604bd"
+},
+ {
+  "name":"Petit Monaco",
+  "id":"120721871317268",
+  "lat":"48.8642006",
+  "lng":"2.3633101",
+  "address":"28 Rue de Picardie, 75003 Paris 75003 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xap1/v/t1.0-1/c13.0.50.50/p50x50/1173907_1377268932500964_1240283690_n.jpg?oh=7e0b46470996ad0afbe419717bc70db4&oe=567E4889"
+},
+ {
+  "name":"Petite Chaufferie",
+  "id":"533421646751783",
+  "lat":"48.8716011",
+  "lng":"2.35027",
+  "address":"32 rue de l'Echiquier 75010 Paris",
+  "pins": ["timeout"],
+  "note":"5.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/c0.0.50.50/p50x50/1779168_580089045418376_454972371_n.jpg?oh=30e88aa08c180a4f6fe02dbfc1f9c7d9&oe=56768E91&__gda__=1454081850_870f942e3a62cca92aa90688d963fc21"
+},
+ {
+  "name":"Place Verte",
+  "id":"164224590254901",
+  "lat":"48.8658714",
+  "lng":"2.37745",
+  "address":"105 rue Oberkampf 75011 Paris",
+  "pins": ["timeout"],
+  "note":"3.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Point Ephémère",
+  "id":"215947090970",
+  "lat":"48.8812770311",
+  "lng":"2.3692158028",
+  "address":"200 quai de Valmy 75010 Paris",
+  "pins": ["bar2h","barclub","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtp1/v/t1.0-1/c7.0.50.50/p50x50/11921790_10153441777520971_1554937766637480279_n.jpg?oh=6560bf0bccaeb407b1a685516ba32a2a&oe=56654707&__gda__=1449418733_ed9f2f97056e3e604ee892712126682b"
+},
+ {
+  "name":"Polly Maggoo",
+  "id":"307824537949",
+  "lat":"48.8526306",
+  "lng":"2.3467",
+  "address":"3-5 rue du Petit Pont 75015 Paris",
+  "pins": ["timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Pop In",
+  "id":"153300488032563",
+  "lat":"48.8614197",
+  "lng":"2.3675599",
+  "address":"105, rue Amelot 75011 Paris",
+  "pins": ["barclub","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xta1/v/t1.0-1/c42.0.50.50/p50x50/11230906_1087205771308692_447639593394841783_n.jpg?oh=138e75f95c823ed54e173921b538626d&oe=566E74F4&__gda__=1450782091_aaae61049454432469ccebcc00d5f98b"
+},
+ {
+  "name":"Progrès",
+  "id":"367844916589070",
+  "lat":"48.8620626075",
+  "lng":"2.36437280697",
+  "address":"1 rue de Bretagne 75017 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xta1/v/t1.0-1/p50x50/11114742_862357797169282_5531397439553219484_n.jpg?oh=1764d7660dec8af349606844078a8590&oe=5675ED90&__gda__=1450154081_c0032d77a806ad085f9c1c7c93058640"
+},
+ {
+  "name":"Red House",
+  "id":"157254821011789",
+  "lat":"48.8506088",
+  "lng":"2.3801",
+  "address":"1 bis rue de la forge royale 75011 Paris",
+  "pins": ["barcache","barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/c16.0.50.50/p50x50/1450159_574646532605947_81158212_n.jpg?oh=f4cd5a0ed32971d08528297b4ad4bc30&oe=5675F9B1&__gda__=1453862061_b0769e17ee2d64e15054588aa70e9c32"
+},
+ {
+  "name":"Reflet",
+  "id":"196767447107141",
+  "lat":"48.850093463",
+  "lng":"2.34288860482",
+  "address":"3/7, rue Champollion 75005 Paris",
+  "pins": ["timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p50x50/11146268_733576576759556_1370660890055129641_n.jpg?oh=17f4a9ea52fc08babbf9012e47e900cb&oe=5667938C&__gda__=1454092583_b9128a2619e8d2dc688254ada036dd38"
+},
+ {
+  "name":"Requin Chagrin",
+  "id":"278686268817224",
+  "lat":"48.8445892",
+  "lng":"2.3491499",
+  "address":"10 rue Mouffetard 75005 Paris",
+  "pins": ["bar2h","barcocktails","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c170.50.621.621/s50x50/314413_278687095483808_99887580_n.jpg?oh=5c1e8a38b5cee1d180b2c4d1ff4062da&oe=566B39D7&__gda__=1450394396_22dc1aa0dddb6a44a7d8ebed6f9d801d"
+},
+ {
+  "name":"Roi de Pique",
+  "id":"187956684696979",
+  "lat":"48.863350609",
+  "lng":"2.35842458297",
+  "address":"126 rue du temple 75003 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/v/t1.0-1/c0.0.50.50/p50x50/10858383_380537472105565_6209543787915233073_n.jpg?oh=bdfb0660841b99376df4e6618af4f208&oe=567627BC&__gda__=1449938745_06773e319b5c7d7d0a060518384d95de"
+},
+ {
+  "name":"Rosa Bonheur",
+  "id":"158025674508",
+  "lat":"48.8800512168",
+  "lng":"2.38636647796",
+  "address":"2, allée de la Cascade 75019 Paris",
+  "pins": ["baravin","lebonbon","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c17.0.50.50/p50x50/1395327_10151950098979509_303708180_n.jpg?oh=f990215ba215ef3913d562c3e655afaf&oe=566EC699&__gda__=1449154261_db33cc31d8b675c33ed72a5b5be58837"
+},
+ {
+  "name":"Rosa Bonheur sur Seine",
+  "id":"185020138328798",
+  "lat":"48.8627205",
+  "lng":"2.31584",
+  "address":"37 Quai d'Orsay 75007 Paris",
+  "pins": ["timeout"],
+  "note":"3.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c0.0.50.50/p50x50/10177984_318803301617147_4140390171262919109_n.jpg?oh=ecab403c153442c91fa8a72613a235b4&oe=5671E0B9&__gda__=1451028633_7a0cd9dbefa656a5a747e3779b2e2026"
+},
+ {
+  "name":"Rosebud",
+  "id":"138186399564882",
+  "lat":"48.8416481",
+  "lng":"2.32828",
+  "address":"11 rue delambre Paris 75014 75014 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"4.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Rosie",
+  "id":"77902067599",
+  "lat":"48.8572462657",
+  "lng":"2.35916257854",
+  "address":"rue des rosiers 75004 Paris",
+  "pins": ["barcocktails","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/t5.0-1/50316_77902067599_4884930_q.jpg"
+},
+ {
+  "name":"Sancerre",
+  "id":"156357591049618",
+  "lat":"48.8849983",
+  "lng":"2.3369401",
+  "address":"35 Rue des Abbesses 75018 Paris",
+  "pins": ["baravin","timeout"],
+  "note":"3.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xft1/v/t1.0-1/p50x50/1620779_213128448881319_2050800953_n.jpg?oh=fa67aee9e0196735e34e66f0f0b99d8f&oe=566B0CC0"
+},
+ {
+  "name":"Sans Souci",
+  "id":"136823826363434",
+  "lat":"48.8813095",
+  "lng":"2.33618",
+  "address":"65 Rue Jean Baptiste Pigalle 75009 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xta1/t5.0-1/1086932_136823826363434_1401651199_q.jpg"
+},
+ {
+  "name":"Shannon Pub",
+  "id":"307711039342340",
+  "lat":"48.8425903",
+  "lng":"2.32985",
+  "address":"23, rue Bréa 75006 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p50x50/11209454_804604159653023_2658115308960968384_n.jpg?oh=4e18b3657dbf9f09871e4d4e09e8ebf9&oe=56623E92&__gda__=1450529849_ec67c9aaf34ec4a36df8bea7c6760fff"
+},
+ {
+  "name":"Sherry Butt",
+  "id":"399701770077582",
+  "lat":"48.8532791",
+  "lng":"2.36409",
+  "address":"20 rue Beautreillis 75004 Paris",
+  "pins": ["barcache","barcocktails","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/p50x50/10653600_722796864434736_2977906055892887380_n.jpg?oh=82e273b41b0cd15c389baaa788e14001&oe=567D8E29&__gda__=1451098526_185b8527fabcbbe877277a47fd839929"
+},
+ {
+  "name":"Siffleur de Ballons",
+  "id":"191738230839083",
+  "lat":"48.8496819",
+  "lng":"2.3812699",
+  "address":"34, rue de Citeaux 75012 Paris",
+  "pins": ["baravin","lebonbon","timeout"],
+  "note":"4.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/p50x50/205983_191741080838798_4313841_n.jpg?oh=f051ff44fe411e13b21134afbc56a74e&oe=5666E73C&__gda__=1450706854_d7f15b8208f25afa7d92840a97cbaa7d"
+},
+ {
+  "name":"Souffleurs",
+  "id":"133452263368348",
+  "lat":"48.8568611",
+  "lng":"2.3554399",
+  "address":"7, rue de la verrerie 75004 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"4.5",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/c0.7.50.50/p50x50/10414413_739124982801070_2455416948555525321_n.jpg?oh=12ac76541f22e0578612c72948d06948&oe=567D0C57"
+},
+ {
+  "name":"Surferie",
+  "id":"758762824171944",
+  "lat":"48.8674072587",
+  "lng":"2.37627089024",
+  "address":"69 rue Jean Pierre Timbaud 75011 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"4.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p50x50/934885_760959360618957_6200474723635843372_n.jpg?oh=629ed83c656a94ee99c96b8bc92f4195&oe=56A8A8AA&__gda__=1453865789_3bc427c527a2d8fa7432a117ccb4220f"
+},
+ {
+  "name":"Tape Bar",
+  "id":"174926382526768",
+  "lat":"48.8546611237",
+  "lng":"2.37235024863",
+  "address":"21 Rue de la Roquette, Paris 75011 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+},
+ {
+  "name":"Tiki Lounge",
+  "id":"185701458195176",
+  "lat":"48.8682518",
+  "lng":"2.37113",
+  "address":"26 bis, rue de la Fontaine au Roi 75011 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/p50x50/1464101_507394529359199_430934502_n.jpg?oh=97462b41c14b571a1798af1965729073&oe=566429B6"
+},
+ {
+  "name":"Tontons bringueurs",
+  "id":"358822067504973",
+  "lat":"48.8668146964",
+  "lng":"2.39285904496",
+  "address":"1 rue Boyer 75020 Paris",
+  "pins": ["timeout"],
+  "note":"5.0",
+  "picture":"https://scontent.xx.fbcdn.net/hprofile-ash2/v/t1.0-1/c1.0.50.50/p50x50/1451313_572687316118446_200689274_n.jpg?oh=d88345c173efc212bd4370826768be47&oe=566A2F8F"
+},
+ {
+  "name":"Touller Outillage",
+  "id":"532371526803395",
+  "lat":"48.8669205",
+  "lng":"2.3747399",
+  "address":"68 rue Jean Pierre Timbaud 75011 Paris",
+  "pins": ["timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/v/t1.0-1/c66.66.828.828/s50x50/578150_532375710136310_1633834665_n.jpg?oh=13cdd71bbc8d57c12e7547934d7834f0&oe=566F2189&__gda__=1450318299_e77c051d05690eb11bb6f44bd2331dba"
+},
+ {
+  "name":"Très Particulier",
+  "id":"791641207576655",
+  "lat":"48.8880460982",
+  "lng":"2.33534574509",
+  "address":"Hotel Particulier Montmartre 23 avenue Junot 75018 Paris",
+  "pins": ["barcache","barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpt1/v/t1.0-1/p50x50/11079640_791658294241613_4695215979169499963_n.jpg?oh=24b35e6a3d7d879f2845490136348eb8&oe=56731CBE&__gda__=1449594086_f96378a012ab06471243949712ed5226"
+},
+ {
+  "name":"Trinquette",
+  "id":"1454152178214412",
+  "lat":"48.8644485",
+  "lng":"2.3544099",
+  "address":"67 rue des Gravilliers   75003 Paris",
+  "pins": ["baravin","lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c9.0.50.50/p50x50/1512327_1454157078213922_3100522833722856001_n.jpg?oh=e3d98355af33ce10f5ba9a7e9cb66cf6&oe=567B903A&__gda__=1449895198_d7085d156d71152e02bcd4c5ff9c1880"
+},
+ {
+  "name":"Troll Café",
+  "id":"167533286650715",
+  "lat":"48.8500404",
+  "lng":"2.378",
+  "address":"27, rue de Cotte 75012 Paris",
+  "pins": ["barabieres","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtp1/v/t1.0-1/p50x50/11062355_861191320618238_3955564954795282649_n.jpg?oh=cafd94bc78de44c622cef6b829f78bc6&oe=566CDF01&__gda__=1450685638_41b3cb1c260e3488f94bfb73ce840279"
+},
+ {
+  "name":"UDO",
+  "id":"92400443494",
+  "lat":"48.8644905",
+  "lng":"2.37396",
+  "address":"4 bis rue Neuve Popincourt 75011 Paris",
+  "pins": ["barclub","barcocktails","lebonbon","timeout"],
+  "note":"4.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpt1/v/t1.0-1/p50x50/397555_10151252356033495_1002204321_n.jpg?oh=a0a096794e832dc52fab5806ff1bd256&oe=566526DC&__gda__=1450196350_e2c5a15e8b411753bf6fec2090bbd30d"
+},
+ {
+  "name":"UFO",
+  "id":"117158124992499",
+  "lat":"48.8668213",
+  "lng":"2.3738401",
+  "address":"49 rue Jean-Pierre Timbaud 75011 Paris",
+  "pins": ["barclub","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/p50x50/29886_117158288325816_4468239_n.jpg?oh=534f8ca458953672b38921c88a508d78&oe=56ABF988&__gda__=1449553843_3866813ab98295fcdbd5f840cf104b56"
+},
+ {
+  "name":"Vénus Noire",
+  "id":"76197249829",
+  "lat":"48.8535995",
+  "lng":"2.34285",
+  "address":"25, rue de l'hirondelle 75006 Paris",
+  "pins": ["lebonbon","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c22.22.278.278/s50x50/541342_10151175587799830_757476605_n.jpg?oh=ef683a0c35db4d53c3b290b7e8766217&oe=56A9382B&__gda__=1450981816_dc18f050126a8f4474a1d4da8c7643ec"
+},
+ {
+  "name":"Verre Volé",
+  "id":"135322473181902",
+  "lat":"48.8642693",
+  "lng":"2.3717",
+  "address":"l'épicerie du verre volé au 54 bis rue de la Folie Méricourt 75011 Paris",
+  "pins": ["baravin","lebonbon","timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/v/t1.0-1/c20.20.252.252/s50x50/1231701_554985454548933_2142752909_n.jpg?oh=0c1c8afad562a002ffab8b20403b10f4&oe=5661E7A4&__gda__=1450031281_96721a915b3ceffc6750c77bf17e68fc"
+},
+ {
+  "name":"Violon Dingue",
+  "id":"90106188961",
+  "lat":"48.8476105",
+  "lng":"2.3484499",
+  "address":"46 Rue de la Montagne Sainte Genevieve 75005 Paris",
+  "pins": ["timeout"],
+  "note":"3.5",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/c4.0.50.50/p50x50/4753_90106273961_5228549_n.jpg?oh=185da45ef9b3852701fa6dc3fb18c039&oe=5669FBEF&__gda__=1450032455_f5cc1c909214dc0bfa39d0405205fcb2"
+},
+ {
+  "name":"W.O.S. Bar",
+  "id":"155519271145813",
+  "lat":"48.8462296",
+  "lng":"2.3429599",
+  "address":"184 rue Saint Jacques 75005 Paris",
+  "pins": ["barcocktails","timeout"],
+  "note":"4.0",
+  "picture":"https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yW/r/U2hFrus9i5v.png"
+}
+]}
