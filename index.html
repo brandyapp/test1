@@ -8,10 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>  
-
-    <script type="text/javascript"
-  src="http://www.googleapis.com/maps/api/js?key=AIzaSyCENn8lcf6FcqHLeugPNgZfsGlolhlENlw&libraries=geometry,places">
-</script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true&libraries=visualization"></script>
 
 
 
@@ -26,17 +23,14 @@
 
 <div data-role="page" id="page-map" class="page-map">
 
-   <div id="espace-info-window" class="espace-info-window">
-   
-    
-
-   </div>
-  </div>
+  
+   <div id="info-window" class='info-window'>Infowindow test</div>
 
 
     <div id="map-canvas" class="map"></div> 
   <div id="bottom-button" class="bottom-button">
     <ul>
+      <li><a href="#page-pin"><h1>Evènements</h1></li>
       <li><a href="#page-pin"><h1>Pin's</h1></li>
     </ul>
   </div>
@@ -47,30 +41,52 @@
 <!-- PAGE PIN -->
 
 
-<div data-role="page" id="page-pin" class="page-pin" >
+<div data-role="page" id="page-pin" class="page-pin">
    <!-- <a href="#page-map" class="slide">Slide up to Page Two</a> -->
 
-    <div class="titre"><h1>Selection</h1></div>
-    <br>
-    <br>
- 
-    <a href="#page-map"><p  style="color: black; text-align: center;">Revenir à la page </p></a>
+    <div class="titre"><h1>Votre sélection..</h1></div>
+
 
   <div class="list">
+    <div id="test" class="data1"><img src="design/3europin30.png"><br><h3>Bieres</h3></div>
+    <div id="test" class="data1"><img src="design/5europin30.png"><br><h3>bieres</h3></div>
+    <div -+id="test" class="data1"><img src="design/alleventspin30.png"><br><h3>tous les events</h3></div>
+    <div id="test" class="data1"><img src="design/bonbonpin30.png"><br><h3>le bonbon</h3></div>
+    <div id="test" class="data1"><img src="design/lgbtpin30.png"><br><h3>gay friendly</h3></div>
+    <div id="test" class="data1"><img src="design/rockpin30.png"><br><h3>rock</h3></div>
+    <div id="test" class="data1"><img src="design/tabacpin30.png"><br><h3>tabac</h3></div>
+    <div id="test" class="data1"><img src="design/timeoutpin30.png"><br><h3>timeout</h3></div>
+    <div id="test" class="data1"><img src="design/3europin30.png"><br><h3></h3></div>
+    <div id="test" class="data1"><img src="design/5europin30.png"><br><h3></h3></div>
+    <div id="test" class="data1"><img src="design/alleventspin30.png"><br><h3></h3></div>
+    <div id="test" class="data1"><img src="design/bonbonpin30.png"><br><h3></h3></div>
+    <div id="test" class="data1"><img src="design/lgbtpin30.png"><br><h3></h3></div>
+    <div id="test" class="data1"><img src="design/rockpin30.png"><br><h3></h3></div>
+    <div id="test" class="data1"><img src="design/tabacpin30.png"><br><h3></h3></div>
+    <div id="test" class="data1"><img src="design/timeoutpin30.png"><br><h3></h3></div>
     
-    <div id="test" class="lebonbon"><img src="http://www.brandyapp.co/applifinal/design/lebonbonpin.png"><br><h3>Le bonbon</h3></div>
-    <div id="test" class="timeout"><img src="http://www.brandyapp.co/applifinal/design/timeoutpin.png"><br><h3>Timeout</h3></div>
-    <div id="test" class="barclub"><img src="http://www.brandyapp.co/applifinal/design/barclubpin.png"><br><h3>bars clubs</h3></div>
-    <div id="test" class="barabieres"><img src="http://www.brandyapp.co/applifinal/design/barabierespin.png"><br><h3>Bars à Bieres</h3></div>
-    <div id="test" class="baravin"><img src="http://www.brandyapp.co/applifinal/design/baravinpin.png"><br><h3>Bars à vin</h3></div>
-    <div id="test" class="barcache"><img src="http://www.brandyapp.co/applifinal/design/barcachepin.png"><br><h3>Bars cachés</h3></div>
-    <div id="test" class="bar2h"><img src="http://www.brandyapp.co/applifinal/design/bar2hpin.png"><br><h3>Bars > 2h</h3></div>
-    <div id="test" class="barcocktails"><img src="http://www.brandyapp.co/applifinal/design/barcocktailspin.png"><br><h3>Bars cocktails</h3></div>
-
-
+    <div id="test" class="data2">affiche data2</div>
+    <div id="test" class="data1">affiche data1</div>
+    <div id="test" class="data2">affiche data2</div>    <div id="test" class="data1">affiche data1</div>
+    <div id="test" class="data2">affiche data2</div>    <div id="test" class="data1">affiche data1</div>
+    <div id="test" class="data2">affiche data2</div>    <div id="test" class="data1">affiche data1</div>
+    <div id="test" class="data2">affiche data2</div>    <div id="test" class="data1">affiche data1</div>
+    <div id="test" class="data2">affiche data2</div>    <div id="test" class="data1">affiche data1</div>
+    <div id="test" class="data2">affiche data2</div>
+        <div id="test" class="data2">affiche data2</div>    <div id="test" class="data1">affiche data1</div>
+    <div id="test" class="data2">affiche data2</div>    <div id="test" class="data1">affiche data1</div>
+    <div id="test" class="data2">affiche data2</div>
+        <div id="test" class="data2">affiche data2</div>    <div id="test" class="data1">affiche data1</div>
+    <div id="test" class="data2">affiche data2</div>    <div id="test" class="data1">affiche data1</div>
+    <div id="test" class="data2">affiche data2</div>
   </div>
 
-  <a href="#page-map"><p  style="color: black; text-align: center;">Revenir à la page </p></a>
+  <div id="bottom-button" class="bottom-button">
+    <ul>
+      <li><a href="#page-pin" data-transition="none"><h1>Evènements</h1></li>
+      <li><a href="#page-pin"><h1>Pin's</h1></li>
+    </ul>
+  </div>
 
 </div>
 
@@ -89,15 +105,9 @@
  
         function initialize() {
           var mapOptions = {
-            zoom: 14,
-            center: latlng,
-            streetViewControl: false,
-            zoomControl: true,
-            mapTypeControl: false,
-            zoomControlOptions: {
-                position: google.maps.ControlPosition.RIGHT_TOP
-          }
-        };
+            zoom: 12,
+            center: latlng
+          };
           map = new google.maps.Map(document.getElementById('map-canvas'),
               mapOptions);
 
@@ -113,7 +123,7 @@
               var marker1 = new google.maps.Marker({
                 map: map,
                 position: pos,
-                icon: 'http://www.brandyapp.co/applifinal/design/user.png'
+                icon: 'design/lgbt.png'
               });
 
               map.setCenter(pos);
@@ -125,11 +135,6 @@
             handleNoGeolocation(false);
           }
 
-            // ENLEVE L'INFOWINDOW
-          map.addListener('click', function() {
-            var element = document.getElementById("info-window");
-            element.parentNode.removeChild(element);
-        });
         }
 
         function handleNoGeolocation(errorFlag) {
@@ -179,64 +184,38 @@
         // Mise en place de L'infowindow
         
         function pushInfowindow (info) {   
-          $('.espace-info-window').html(info);
+          $('.info-window').text(info);
         }
 
-   // ALTERNANCE CERCLE SUR PINS
-
- 
-    // $('#test img').click(function() {
-    //   console.log($(this).css('border')==='2px solid rgb(23, 14, 38)');
-    //   if ($(this).css('border')==='2px solid rgb(23, 14, 38)') {   
-    //     $(this).css('border','2px solid #fff');
-    //   } else {
-    //     $(this).css('border','2px solid #170e26');
-    //   }
-    // });
-
-  
-
-
-       
+        
 // AJAX REQUEST
 
           
           
-          function generatePin (pins) { 
+          function generatePin (pin) { 
             $.ajax({
-              url: "json/"+pins+".json",
+              url: pin+".json",
               async: false,
               dataType: 'json',
               type: "GET",
               success: function (json) {
-                console.log(json)
                   $.each( json.data, function(i, response) {
-                      console.log(response);
+                      
                       var myLatlng = new google.maps.LatLng(response.lat, response.lng);
-                      console.log(myLatlng);
-                      var picture = response.picture;
-                      var name = response.name;
-
+                      var title = response.title;
                       // creation d'un marker
                       var marker = new google.maps.Marker({
                        position: myLatlng,
-                       icon: 'http://www.brandyapp.co/applifinal/design/'+pins+'marker.png',
-                                         
+                       icon: 'design/lgbt.png',
+                       
                       });
-
-                      //construction du code HTML pour pins dans le cartouche
-                      var pinCartouche = '';
-                      for (i=0; i < response.pins.length; i++) {
-                        pinCartouche = pinCartouche + '<object type="image/svg+xml" data="http://www.brandyapp.co/applifinal/design/' + response.pins[i] + 'pin.svg" width="40px"></object>';
-                      }
-                      console.log(pinCartouche);
                       // creation de l'infowindow du marker
                       var infowindow = new google.maps.InfoWindow({
-                          content:  '<div id="info-window" class="info-window"><img src="' + picture + '"><h4>' + name + '</h4><br>' + '<div class="pinCartouche">' +  pinCartouche + '</div></div>'
+                          content: title
                       });
                       // Listener de l'infowindow
                       google.maps.event.addListener(marker, 'click', function() {
-                        
+                        console.log(infowindow.getContent());
                         var info = infowindow.getContent();
                         pushInfowindow (info); 
                       });
@@ -248,102 +227,50 @@
               });
           };
         
-
-
+            
 // JQUERY AFFICHAGE DES PINS
+          
 
         $(document).ready(function() {
 
-            $('.lebonbon').on('click', function(){
-              if ($(this).children('img').css('border')==='2px solid rgb(23, 14, 38)') {   
-                $(this).children('img').css('border','2px solid #fff');
-              } else {
-                $(this).children('img').css('border','2px solid #170e26');
-              }
+            $('.data1').on('click', function(){
               clearMarkers();
-              console.log(" clearmarker done");
-              generatePin('lebonbon');
+              generatePin('data1');
               showMarkers();
             }); 
 
-            $('.timeout').on('click', function(){
-              if ($(this).children('img').css('border')==='2px solid rgb(23, 14, 38)') {   
-                $(this).children('img').css('border','2px solid #fff');
-              } else {
-                $(this).children('img').css('border','2px solid #170e26');
-              }
+             $('.data2').click(function(){
               clearMarkers();
-              generatePin('timeout');
-              showMarkers();
-            }); 
-            $('.barclub').on('click', function(){
-              if ($(this).children('img').css('border')==='2px solid rgb(23, 14, 38)') {   
-                $(this).children('img').css('border','2px solid #fff');
-              } else {
-                $(this).children('img').css('border','2px solid #170e26');
-              }
-              clearMarkers();
-              generatePin('barclub');
-              showMarkers();
-            }); 
-            $('.barabieres').on('click', function(){
-              if ($(this).children('img').css('border')==='2px solid rgb(23, 14, 38)') {   
-                $(this).children('img').css('border','2px solid #fff');
-              } else {
-                $(this).children('img').css('border','2px solid #170e26');
-              }
+              generatePin('data2');
+              showMarkers();           
+            });
 
-              clearMarkers();
-              generatePin('barabieres');
-              showMarkers();
-            }); 
-            $('.baravin').on('click', function(){
-              if ($(this).children('img').css('border')==='2px solid rgb(23, 14, 38)') {   
-                $(this).children('img').css('border','2px solid #fff');
-              } else {
-                $(this).children('img').css('border','2px solid #170e26');
-              }
-              clearMarkers();
-              generatePin('baravin');
-              showMarkers();
-            }); 
-            $('.barcache').on('click', function(){
-              if ($(this).children('img').css('border')==='2px solid rgb(23, 14, 38)') {   
-                $(this).children('img').css('border','2px solid #fff');
-              } else {
-                $(this).children('img').css('border','2px solid #170e26');
-              }
-              clearMarkers();
-              generatePin('barcache');
-              showMarkers();
-            }); 
-            $('.bar2h').on('click', function(){
-              if ($(this).children('img').css('border')==='2px solid rgb(23, 14, 38)') {   
-                $(this).children('img').css('border','2px solid #fff');
-              } else {
-                $(this).children('img').css('border','2px solid #170e26');
-              }
-              clearMarkers();
-              generatePin('bar2h');
-              showMarkers();
-            }); 
-            $('.barcocktails').on('click', function(){
-              if ($(this).children('img').css('border')==='2px solid rgb(23, 14, 38)') {   
-                $(this).children('img').css('border','2px solid #fff');
-              } else {
-                $(this).children('img').css('border','2px solid #170e26');
-              }
-              clearMarkers();
-              generatePin('barcocktails');
-              showMarkers();
-            }); 
         });
         
 
         google.maps.event.addDomListener(window, 'load', initialize);
         });
 
+// ALTERNANCE CERCLE SUR PINS
 
+ 
+    $('#test img').click(function() {
+      if ($(this).css('border')==='2px solid rgb(23, 14, 38)') {   
+        $(this).css('border','2px solid #fff');
+      } else {
+        $(this).css('border','2px solid #170e26');
+      }
+    });
+
+     $('#test img').click(function() {
+      console.log($('#test h3').css('border'));
+      //console.log($('#test h3').css('border')==='2px solid rgb(23, 14, 38)');
+      if ($('#test h3').css('border')==='2px solid rgb(23, 14, 38)') {   
+        $('#test h3').css('border','2px solid #fff');
+      } else {
+        $('#test h3').css('border','2px solid #170e26');
+      }
+    });
 
     </script>
   
