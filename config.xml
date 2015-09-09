@@ -37,8 +37,8 @@
   <gap:plugin name="org.apache.cordova.splashscreen"/>
   <gap:plugin name="org.apache.cordova.vibration"/>
   <gap:plugin name="plugin.google.maps.menusito" version="1.2.5">
-    <param name="AIzaSyAVhYCCXZdFk3OQJVoNod5wXjoj4AxCWPs" value="xyz"/>
-    <param name="AIzaSyDu7TQxVxpyVzNHuhi85VylImvJVmx7Qyo" value="123"/>
+    <param name="API_KEY_FOR_ANDROID" value="AIzaSyAVhYCCXZdFk3OQJVoNod5wXjoj4AxCWPs"/>
+    <param name="API_KEY_FOR_IOS" value="AIzaSyDu7TQxVxpyVzNHuhi85VylImvJVmx7Qyo"/>
   </gap:plugin>
   <icon src="icon.png"/>
   <icon src="www/res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:qualifier="ldpi"/>
